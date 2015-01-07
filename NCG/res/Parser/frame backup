@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>न्छ</postpos>		
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>DUM</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>न्छु</postpos>			
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>म</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>न्छौँ</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>न्छस्</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	</item>
+	
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>न्छस्</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>न्छौ</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>DUM</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	</item>	
+
+/*॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥।????????????????????????।।।।।।।।।।।।।।।।।।।।।।।।।।।।*/
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>छ</postpos>		
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>DUM</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>छु</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>छौँ</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>छस्</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	</item>
+
+		<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>छौ</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	</item>	
+
+		<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>छौ</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>DUM</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	</item>	
+	
+	
+	
+	</root>

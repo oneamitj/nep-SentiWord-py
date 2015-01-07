@@ -1,0 +1,7 @@
+Sentence is : {अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH 
+Candidate verb found :छ
+छ is not loaded
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+ 
+
+ Sentence not parsed: ill formed sentence.

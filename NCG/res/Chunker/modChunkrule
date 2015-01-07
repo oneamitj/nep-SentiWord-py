@@ -1,0 +1,7 @@
+NCH:(NN)(PLAI)
+NCH:(NN)
+NCH:(NN)(POP)
+VCH:(VBF)|(VOP)|(VKO)|((VI)(VF))|(VAUX)
+FVCH:(VOP)|(VKO)|((VI)(VF))|(VAUX)
+NVCH:(VOP)|((VOP)?)|((VOP)(VKO))
+GVCH:(VI)|(VNE)

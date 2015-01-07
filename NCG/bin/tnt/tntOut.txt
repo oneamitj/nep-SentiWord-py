@@ -1,0 +1,18 @@
+%% TnT statistically tagged file, Fri Nov 21 22:26:29 2014
+%% lexicon     : TntCorpus.lex
+%% ngrams      : TntCorpus.123
+%% corpus      : /home/wannamit/iVoIP/AI/bichar/NCG/res/PopTokenizer/out
+%% model       : trigrams
+%% sparse data : linear interpolation
+%%   lambda1 = 1.470804e-01   lambda2 = 2.864060e-01   lambda3 = 5.665135e-01
+%% unknown mode: statistics of singletons
+%% case of characters is significant
+%% using suffix trie up to length 10
+%% suffix backoff with theta = 1.090037e-01
+%% Thorsten Brants, thorsten@brants.net
+राम		NNP
+राम्रो	JJM
+मान्छे	NN
+हो			VBF
+%% 0 (0.00%) unknown tokens
+%% avg. 1.25 tags/token

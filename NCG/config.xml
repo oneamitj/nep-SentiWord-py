@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ConfigParser>
+	<seedFile>./../res/Parser/seedLex.txt </seedFile>
+	<postPosFile> ./../res/Parser/postSuffix.txt </postPosFile>
+	<primaryRootFrame> ./../res/Parser/rootFrame.xml </primaryRootFrame>
+	<generalFrameA>./../res/Parser/typeA.xml </generalFrameA>
+	<generalFrameB>./../res/Parser/typeB.xml </generalFrameB>
+	<transFormer> छ </transFormer>
+	<outputFileTrans>./../res/output1.txt </outputFileTrans>
+	<ruleFile1>		</ruleFile1>
+	<ruleFile9>		</ruleFile9>
+	<inputFile> ..//Parser\res/input.txt </inputFile>
+	<outputFile>./../log/parser.log</outputFile>
+	<eqlog>./../log/eqsolver.log</eqlog>	
+	<parserlog>./../log/parser.log </parserlog>
+</ConfigParser>

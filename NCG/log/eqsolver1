@@ -1,0 +1,37 @@
+11 is added as equality. Variable length is :2
+10 is added as equality. Variable length is :2
+01 is added as inequality. Variable length is :2
+
+0 is created as a test solution list
+0 need to be concanated to 0
+00 formed after concatnitation
+00 is added to solution list
+
+1 is created as a test solution list
+0 need to be concanated to 1
+01 formed after concatnitation
+01 is added to solution list
+
+10 is created as a test solution list
+10 is added to solution list
+
+11 is created as a test solution list
+11 is added to solution list
+
+Equation is: 11Soluton is : 00value --->0
+ solution is not satisfied 
+
+Equation is: 11Soluton is : 01value --->1
+
+Equation is: 10Soluton is : 01value --->0
+ solution is not satisfied 
+
+Equation is: 11Soluton is : 10value --->1
+
+Equation is: 10Soluton is : 10value --->1
+
+IqEquation is: 01 Soluton is : 10 value --->0
+Solution is found:10 and is added to the list
+
+Equation is: 11Soluton is : 11value --->2
+ solution is not satisfied 

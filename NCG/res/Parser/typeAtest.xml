@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<item>
+		<category> verb</category>
+		<seedlex>दि</seedlex>
+		<postpos>न्छ</postpos>		
+		
+		<kframe>
+			<karaka>k1</karaka>
+  	   		<lextype>NCH</lextype>
+		    	<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	</item>
+	<item>
+		<category> verb</category>
+		<seedlex>दि</seedlex>
+		<postpos>छ</postpos>		
+		
+		<kframe>
+			<karaka>k1</karaka>
+  	   		<lextype>NCH</lextype>
+		    <vibakti>ले</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	</item>
+	
+	<item>
+		<category> verb</category>
+		<seedlex>दि</seedlex>
+		<postpos>यो</postpos>
+
+		<kframe>
+			<karaka>k1</karaka>
+  	   		<lextype>NCH</lextype>
+		    <vibakti>ले</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+		
+		<kframe>
+			<karaka>k2</karaka>
+  	   		<lextype>NCH</lextype>
+		    <vibakti>लाई,PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+		
+
+		
+	</item>
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<suffix>ेछ </suffix>	
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>ले </vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+		
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI,लाई</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+		
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>लाई</vibakti>
+			<optional>YES</optional>
+			<position>left</position>
+		</kframe>
+		
+		<kframe>
+			<karaka>kX</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>POP</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+		
+	</item>
+	
+	
+</root>

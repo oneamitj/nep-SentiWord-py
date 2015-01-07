@@ -1,0 +1,102 @@
+%% TnT statistically tagged file, Wed Sep 17 12:46:59 2008
+%% lexicon     : TntCorpus.lex
+%% ngrams      : TntCorpus.123
+%% corpus      : /root/Desktop/nepali/res/PopTokenizer/out
+%% model       : trigrams
+%% sparse data : linear interpolation
+%%   lambda1 = 1.470804e-01   lambda2 = 2.864060e-01   lambda3 = 5.665135e-01
+%% unknown mode: statistics of singletons
+%% case of characters is significant
+%% using suffix trie up to length 10
+%% suffix backoff with theta = 1.090037e-01
+%% Thorsten Brants, thorsten@brants.net
+काठमाडौं	NNP
+साउन		VBI
+६			CD
+-			YM
+एक			CD
+महिना		NN
+देखि		POP
+डिपो		NN
+मा			POP
+धाउ“दा	VBO
+पनि		RP
+उपभोक्ता	NN
+ले			PLE
+खाना		VBI
+पकाउने	VBNE
+ग्यास		NN
+पाए		VBF
+का			PKO
+छैनन्		VBF
+।			YF
+%% 3 (15.00%) unknown tokens
+%% avg. 3.25 tags/token, 1.18 tags/known token
+%% TnT statistically tagged file, Wed Sep 17 12:47:31 2008
+%% lexicon     : TntCorpus.lex
+%% ngrams      : TntCorpus.123
+%% corpus      : /root/Desktop/nepali/res/PopTokenizer/out
+%% model       : trigrams
+%% sparse data : linear interpolation
+%%   lambda1 = 1.470804e-01   lambda2 = 2.864060e-01   lambda3 = 5.665135e-01
+%% unknown mode: statistics of singletons
+%% case of characters is significant
+%% using suffix trie up to length 10
+%% suffix backoff with theta = 1.090037e-01
+%% Thorsten Brants, thorsten@brants.net
+काठमाडौं	NNP
+साउन		VBI
+६			CD
+-			YM
+एक			CD
+महिना		NN
+देखि		POP
+डिपो		NN
+मा			POP
+धाउ“दा	VBO
+पनि		RP
+उपभोक्ता	NN
+ले			PLE
+खाना		VBI
+पकाउने	VBNE
+ग्यास		NN
+पाए		VBF
+का			PKO
+छैनन्		VBF
+।			YF
+%% 3 (15.00%) unknown tokens
+%% avg. 3.25 tags/token, 1.18 tags/known token
+%% TnT statistically tagged file, Wed Sep 17 12:50:36 2008
+%% lexicon     : TntCorpus.lex
+%% ngrams      : TntCorpus.123
+%% corpus      : /root/Desktop/nepali/res/PopTokenizer/out
+%% model       : trigrams
+%% sparse data : linear interpolation
+%%   lambda1 = 1.470804e-01   lambda2 = 2.864060e-01   lambda3 = 5.665135e-01
+%% unknown mode: statistics of singletons
+%% case of characters is significant
+%% using suffix trie up to length 10
+%% suffix backoff with theta = 1.090037e-01
+%% Thorsten Brants, thorsten@brants.net
+काठमाडौं	NNP
+साउन		VBI
+६			CD
+-			YM
+एक			CD
+महिना		NN
+देखि		POP
+डिपो		NN
+मा			POP
+धाउ“दा	VBO
+पनि		RP
+उपभोक्ता	NN
+ले			PLE
+खाना		VBI
+पकाउने	VBNE
+ग्यास		NN
+पाए		VBF
+का			PKO
+छैनन्		VBF
+।			YF
+%% 3 (15.00%) unknown tokens
+%% avg. 3.25 tags/token, 1.18 tags/known token

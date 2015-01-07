@@ -1,0 +1,1907 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+
+/*-------------------------------------------------------1st type -----eg. म भात खान्छु-   न्छु   -----------------------------------------------------------------
+/*-------------------------------------------------------Present tense-----------------------------------------------------------------
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>न्छु</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+		<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>न्छौँ</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>न्छस्</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>न्छेस्</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>न्छौ</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>DUM</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>	
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>न्छ</postpos>	
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>DUM</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+		<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>न्छे</postpos>	
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>DUM</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+		<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>न्छन्</postpos>	
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>नुहुन्छ</postpos>	
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>RBO</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>DUM</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+/*-------------------------------------------------------Past tense-----------------------------------------------------------------
+
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>एँ</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>यौँ</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>इस्</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	
+
+	
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>यौ</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>	
+
+	
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>यो</postpos>	
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+	
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>ई</postpos>	
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>ए</postpos>	
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>नुभयो</postpos>	
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+/*-------------------------------------------------------Future tense-----------------------------------------------------------------
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>नेछु</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>नेछौँ</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>नेछस्</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>नेछेस्</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>नेछौ</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>DUM</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>	
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>नेछ</postpos>	
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>DUM</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>नेछे</postpos>	
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>DUM</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>नेछन्</postpos>	
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>नुहुनेछ</postpos>	
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>RBO</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>DUM</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+/*-------------------------------------------------------2nd type -----eg. म काम गर्छु -----     छु   ------------------------------------------------------------------
+/*-------------------------------------------------------Present tense-----------------------------------------------------------------
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>छु</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>छौँ</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>छस्</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>छेस्</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>छौ</postpos>			
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>PP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>DUM</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>	
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>छ</postpos>	
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>DUM</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>छे</postpos>	
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>DUM</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>छन्</postpos>	
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NNP</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+		<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+
+	<item>
+		<category> verb</category>
+		<seedlex></seedlex>
+		<postpos>नुहुन्छ</postpos>	
+		
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>RBO</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k1</karaka>
+			<lextype>DUM</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+
+
+		<kframe>
+			<karaka>k2</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NNLE</lextype>
+			<vibakti>ले</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+
+		<kframe>
+			<karaka>k4</karaka>
+			<lextype>NNLAI</lextype>
+			<vibakti>लाई</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+		
+
+	<kframe>
+			<karaka>k6</karaka>
+			<lextype>NNMA</lextype>
+			<vibakti>मा</vibakti>
+			<mandatory>NO</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>
+/*-------------------------------------------------------Past tense-------------WORKS FROM PREVIOUS STRUCTURES------------------------
+	
+/*-------------------------------------------------------Future tense-----------WORKS FROM PREVIOUS STRUCTURES---------------------------
+
+
+	</root>

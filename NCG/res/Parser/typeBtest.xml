@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<item>
+		<category> verb</category>
+		<seedlex>सुत्</seedlex>
+		<postpos>के</postpos>		
+		
+		<kframe>
+			<karaka>k1</karaka>
+  	   		<lextype>NN</lextype>
+		    <vibakti1>NULL</vibakti1>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+		
+		<kframe>
+			<karaka>k2</karaka>
+  	   		<lextype>NN</lextype>
+		    <vibakti1>NULL</vibakti1>
+			<mandatory>YES</mandatory>
+			<position>right</position>
+		</kframe>
+		
+	</item>
+	<item>
+		<category> verb</category>
+		<seedlex>दि</seedlex>
+		<postpos>tdach</postpos>		
+		
+		<kframe>
+			<karaka>k1</karaka>
+  	   		<lextype>NN</lextype>
+		    <vibakti1>le</vibakti1>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	</item>
+	
+	<item>
+		<category> verb</category>
+		<seedlex>खा</seedlex>
+		<postpos>यो</postpos>
+
+		<kframe>
+			<karaka>k1</karaka>
+  	   		<lextype>NN</lextype>
+		    <vibakti1>NULL</vibakti1>
+			<mandatory>ye</mandatory>
+			<position>left</position>
+		</kframe>
+		
+		<kframe>
+			<karaka>k2</karaka>
+  	   		<lextype>NP</lextype>
+		    <vibakti1>NULL</vibakti1>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+		
+		<kframe>
+			<karaka>k3</karaka>
+  	   		<lextype>NS</lextype>
+		    <vibakti1>NULL</vibakti1>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	</item>
+	
+	<item>
+		<category> verb</category>
+		<seedlex>खा</seedlex>
+		<postpos>न्छ</postpos>		
+		
+		<kframe>
+			<karaka>k1</karaka>
+  	   		<lextype>NN</lextype>
+		    <vibakti1>NULL</vibakti1>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+		
+		<kframe>
+			<karaka>k2</karaka>
+  	   		<lextype>NN</lextype>
+		    <vibakti>NULL</vibakti>
+			<mandatory>YES</mandatory>
+			<position>right</position>
+		</kframe>
+		
+	</item>
+	<item>
+		<category> verb</category>
+		<seedlex>दि</seedlex>
+		<postpos>छ</postpos>		
+		
+		<kframe>
+			<karaka>k1</karaka>
+  	   		<lextype>NN</lextype>
+		    <vibakti>NULL</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+		
+	</item>
+	
+</root>

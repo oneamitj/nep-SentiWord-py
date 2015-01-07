@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding ="UTF-8" ?>
+<!-- The root frame -->
+<root>
+	<item>
+		<category> verb</category>
+		<seedlex>दि, खा</seedlex>
+		<postpos>न्छ</postpos>		
+		<kframe>
+			<karaka>k1</karaka>
+  	   		<lextype>NCH</lextype>
+		    <vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k2</karaka>
+  	   		<lextype>NCH</lextype>
+		    <vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k3</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>k4</karaka>
+  	   		<lextype>NCH</lextype>
+ 			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+		<kframe>
+			<karaka>kx</karaka>
+			<lextype>NCH</lextype>
+			<vibakti>PHI</vibakti>
+			<mandatory>YES</mandatory>
+			<position>left</position>
+		</kframe>
+	</item>	
+</root>

@@ -1,0 +1,26 @@
+TYPEA.XML:
+TYPEa
+दि a
+खा a
+
+TYPEb
+सिक् a
+गर् a
+भन् a
+पिट् a
+उड् a
+पढ् a
+लेख् a
+
+TYPEB.XML:
+TYPEa
+उफ्री b
+जा b
+
+TYPEb
+सुत् b
+हिँड् b
+बस् b
+कुद् b
+डुल् b
+लाग् b

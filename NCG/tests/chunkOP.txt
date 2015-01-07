@@ -1,0 +1,634 @@
+{राम/NNP ले/PLE }/NNLE {भात/NN }/NCH {खायो/VBF }/VCH 
+{राम/NNP ले/PLE }/NNLE {भात/NN }/NCH {खायो/VBF }/VCH 
+{हात/NN }/NCH {ले/PLE }/PLE {भात/NN }/NCH {खायो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {भात/NN }/NCH {खायो/VBF }/VCH 
+{हात/NN }/NCH {ले/PLE }/PLE {भात/NN }/NCH {खायो/VBF }/VCH 
+{हात/NN }/NCH {ले/PLE }/PLE {भात/NN }/NCH {खायो/VBF }/VCH 
+{हात/NN ले/PLE }/NNLE {भात/NN }/NCH {खायो/VBF }/VCH 
+{हात/NN ले/PLE }/NNLE {भात/NN }/NCH {खायो/VBF }/VCH 
+{हात/NN ले/PLE }/NNLE {भात/NN }/NCH {खायो/VBF }/VCH 
+{मैँ/DUM ले/PLE }/PNLE {भात/NN }/NCH {खाएँ/VBF }/VCH 
+{मैँ/DUM ले/PLE }/PNLE {हात/NN ले/PLE }/NNLE {भात/NN }/NCH {खाएँ/VBF }/VCH 
+{मैँ/DUM ले/PLE }/PNLE {कलम/NN ले/PLE }/NNLE {भात/NN }/NCH {खाएँ/VBF }/VCH 
+{INPUT__________________USED/NNP }/NNP {VERB/NNP }/NNP {TYPE-/NNP }/NNP {K1/NNP }/NNP {राम/NNP ले/PLE }/PNLE {सिता/NN लाई/PLAI }/NCH {लात्हि/DUM ले/PLE }/PNLE {पिट्यो/VBF }/VCH {।/YF }/YF 
+{म/PP }/PP {भात/NN }/NCH {खान्छु/VBF }/VCH {।/YF }/YF 
+{हामी/PP }/PP {भात/NN }/NCH {खान्छौँ/VBF }/VCH {।/YF }/YF 
+{तँ/PP }/PP {भात/NN }/NCH {खान्छस्/VBF }/VCH {।/YF }/YF 
+{तिमी/PP }/PP {किताब/NN }/NCH {लेख्छौ/VBF }/VCH {।------------/POP }/POP {उनीहरु/DUM }/DUM {भात/NN }/NCH {खान्छन्/VBF }/VCH {।/YF }/YF 
+{----------VBF/RBM }/RBM {ऊ/DUM }/DUM {भात/NN }/NCH {।/YF }/YF 
+{DUM/NN }/NCH {कुकुरहरु/CC }/CC {भात/NN }/NCH {खान्छन्/VBF }/VCH {।/YF }/YF 
+{NCH/JJ }/JJ {उँहा/JJ }/JJ {भात/NN }/NCH {खानुहुन्छ/VBF }/VCH {।/YF }/YF 
+{RBO/NN }/NCH {उँहाहरु/CC }/CC {भात/NN }/NCH {खानुहुन्छ/VBF }/VCH {।/YF }/YF 
+{DUM/RBM }/RBM {मै/PP ले/PLE }/PNLE {भात/NN }/NCH {खाएँ/VBF }/VCH {।/YF }/YF 
+{Added/NNP }/NNP {to/NNP }/NNP {chunk/NNP }/NNP {rule/NNP }/NNP {NNLE:(PP)(PLE)---------/NNP }/NNP {NNLE=/NNP }/NNP {NOUN+/NNP ले/PLE }/PNLE {------मै/NN ले/PLE }/NNLE 
+{बुबा/NN ले/PLE }/NNLE {कलम/NN ले/PLE }/NNLE {भात/NN }/NCH {खानुभयो/VBF }/VCH 
+{उहाँ/PP ले/PLE }/PNLE {कलम/NN ले/PLE }/NNLE {भात/NN }/NCH {खानुभयो/VBF }/VCH 
+{उहाँ/PP ले/PLE }/PNLE {कलम/NN ले/PLE }/NNLE {भात/NN }/NCH {खानुभयो/VBF }/VCH 
+{म/PP }/PP {कलम/NN ले/PLE }/NNLE {लेख्छु/VBF }/VCH 
+{म/PP }/PP {हात/NN ले/PLE }/NNLE {भात/NN }/NCH {खान्छु/VBF }/VCH 
+{हामी/PP }/PP {हात/NN ले/PLE }/NNLE {भात/NN }/NCH {खान्छौँ/VBF }/VCH 
+{म/PP }/PP {कलम/NN ले/PLE }/NNLE {लेख्छु/VBF }/VCH 
+{म/PP }/PP {कलम/NN ले/PLE }/NNLE {लेखेँ/NN }/NCH 
+{म/PP }/PP {लठ्ठी/NN ले/PLE }/NNLE {पिट्छु/VBF }/VCH 
+{म/PP }/PP {लठ्ठी/NN ले/PLE }/NNLE {टेबल/NN }/NCH {पिट्छु/VBF }/VCH 
+{म/PP }/PP {लठ्ठी/NN ले/PLE }/NNLE {टेबल/NN }/NCH {पिट्नेछु/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {किताब/NN }/NCH {पढ्एँ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {आँखा/NN ले/PLE }/NNLE {किताब/NN }/NCH {पढ्एँ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {आँखा/NN ले/PLE }/NNLE {किताब/NN }/NCH {पढ्एँ/VBF }/VCH 
+{हजुर/PP ले/PLE }/PNLE {आँखा/NN ले/PLE }/NNLE {किताब/NN }/NCH {पढ्नुभयो/VBF }/VCH 
+{हजुर/PP ले/PLE }/PNLE {आँखा/NN ले/PLE }/NNLE {किताब/NN }/NCH {पढ्नुभयो/VBF }/VCH 
+{म/PP }/PP {खाट/NNP }/NNP {मा/POP }/POP {सुतेँ/NN }/NCH 
+{म/PP }/PP {सुत्एँ/VBF }/VCH 
+{म/PP }/PP {सुत्छु/VBF }/VCH 
+{म/PP }/PP {सुत्छस्/DUM }/DUM 
+{तँ/PP }/PP {सुत्छस्/DUM }/DUM 
+{तँ/PP }/PP {हिँड्छस्/DUM }/DUM 
+{ऊ/DUM }/DUM {हिँड्छ/VBF }/VCH 
+{ऊबाटो/NN मा/POP }/NCH {हिँड्छ/VBF }/VCH 
+{ऊ/DUM }/DUM {बाटो/NN मा/POP }/NCH {हिँड्छ/VBF }/VCH 
+{ऊ/DUM }/DUM {बाटो/NN मा/POP }/NCH {हिँड्छ/VBF }/VCH 
+{ऊ/DUM }/DUM {बाटो/NN मा/POP }/NNMA {हिँड्छ/VBF }/VCH 
+{ऊ/DUM }/DUM {बाटो/NN मा/POP }/NNMA {हिँड्छ/VBF }/VCH 
+{ऊ/DUM }/DUM {बाटो/NN मा/POP }/NNMA {हिँड्छ/VBF }/VCH 
+{ऊ/DUM }/DUM {बाटो/NN मा/POP }/NNMA {हिँड्छ/VBF }/VCH 
+{म/PP }/PP {खाट/NNP }/NNP {मा/POP }/POP {सुत्छु/VBF }/VCH 
+{म/PP }/PP {भुईँ/NN मा/POP }/NNMA {सुत्छु/VBF }/VCH 
+{म/PP }/PP {सुत्छु/VBF }/VCH 
+{म/PP }/PP {सुत्छु/VBF }/VCH 
+{हामी/PP }/PP {सुत्छौँ/VBF }/VCH 
+{हामी/PP }/PP {आकाश/NN मा/POP }/NNMA {सुत्छौँ/VBF }/VCH 
+{हामी/PP }/PP {भात/NN }/NCH {सुत्छौँ/VBF }/VCH 
+{हामी/PP }/PP {भात/NN ले/PLE }/NNLE {सुत्छौँ/VBF }/VCH 
+{हामी/PP }/PP {भात/NN ले/PLE }/NNLE {सुत्छौँ/VBF }/VCH 
+{हामी/PP }/PP {भात/NN ले/PLE }/NNLE {सुत्छौँ/VBF }/VCH 
+{हामी/PP }/PP {आकाश/NN मा/POP }/NNMA {सुत्छौँ/VBF }/VCH 
+{हामी/PP }/PP {आकाश/NN मा/POP }/NNMA {सुत्छौँ/VBF }/VCH 
+{हामी/PP }/PP {आकाश/NN मा/POP }/NNMA {सुत्छौँ/VBF }/VCH 
+{हामी/PP }/PP {सुत्छौँ/VBF }/VCH 
+{INPUT__________________USED/NNP }/NNP {VERB/NNP }/NNP {TYPE-/NNP }/NNP {K1/NNP }/NNP {राम/NNP ले/PLE }/PNLE {सिता/NN लाई/PLAI }/NCH {लात्हि/DUM ले/PLE }/PNLE {पिट्यो/VBF }/VCH {।/YF }/YF 
+{म/PP }/PP {भात/NN }/NCH {खान्छु/VBF }/VCH {।/YF }/YF 
+{हामी/PP }/PP {भात/NN }/NCH {खान्छौँ/VBF }/VCH {।/YF }/YF 
+{तँ/PP }/PP {भात/NN }/NCH {खान्छस्/VBF }/VCH {।/YF }/YF 
+{तिमी/PP }/PP {किताब/NN }/NCH {लेख्छौ/VBF }/VCH {।------------/POP }/POP {उनीहरु/DUM }/DUM {भात/NN }/NCH {खान्छन्/VBF }/VCH {।/YF }/YF 
+{----------VBF/RBM }/RBM {ऊ/DUM }/DUM {भात/NN }/NCH {।/YF }/YF 
+{DUM/NN }/NCH {कुकुरहरु/CC }/CC {भात/NN }/NCH {खान्छन्/VBF }/VCH {।/YF }/YF 
+{NCH/JJ }/JJ {उँहा/JJ }/JJ {भात/NN }/NCH {खानुहुन्छ/VBF }/VCH {।/YF }/YF 
+{RBO/NN }/NCH {उँहाहरु/CC }/CC {भात/NN }/NCH {खानुहुन्छ/VBF }/VCH {।/YF }/YF 
+{DUM/RBM }/RBM {मै/PP ले/PLE }/PNLE {भात/NN }/NCH {खाएँ/VBF }/VCH {।/YF }/YF 
+{Added/NNP }/NNP {to/NNP }/NNP {chunk/NNP }/NNP {rule/NNP }/NNP {PNLE:(PP)(PLE)---------/NNP }/NNP {NNLE=/NNP }/NNP {Proper/NNP }/NNP {NOUN+/NNP ले/PLE }/PNLE {------मै/NN ले/PLE }/NNLE {मै/PP ले/PLE }/PNLE {हात/NN ले/PLE }/NNLE {भात/NN }/NCH {खाएँ/VBF }/VCH {।/YF }/YF 
+{Added/NNP }/NNP {to/NNP }/NNP {chunk/NNP }/NNP {rule/NNP }/NNP {NNLE:/NNP }/NNP {(NN)(LE)------NNLE=/NNP }/NNP {NOUN+/NNP ले/PLE }/PNLE {बुबा/NN ले/PLE }/NNLE {कलम/NN ले/PLE }/NNLE {भात/NN }/NCH {खानुभयो/VBF }/VCH {।/YF }/YF 
+{ऊ/DUM }/DUM {हिँड्छ/VBF }/VCH {तँ/PP }/PP {हिँड्छस्----------------not/NN }/NCH {parsed----------ill/VBO }/VBO {formed/JJ }/JJ {sentence/NN }/NCH 
+{हामी/PP }/PP {सुत्छौँ/VBF }/VCH 
+{म/PP }/PP {सुत्छु/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {भात/NN }/NCH {खाएँ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {भात/NN }/NCH {खाएँ/VBF }/VCH 
+{म/PP }/PP {सुत्छु/VBF }/VCH 
+{म/PP }/PP {आकाश/NN मा/POP }/NNMA {सुत्छु/VBF }/VCH 
+{म/PP }/PP {घर/NN मा/POP }/NNMA {खाना/VBI }/VBI {खान्छु/VBF }/VCH 
+{म/PP }/PP {घर/NN मा/POP }/NNMA {चम्चा/NN ले/PLE }/NNLE {भात/NN }/NCH {खान्छु/VBF }/VCH 
+{म/PP }/PP {घर/NN मा/POP }/NNMA {चम्चा/NN ले/PLE }/NNLE {खाना/VBI }/VBI {खान्छु/VBF }/VCH 
+{म/PP }/PP {घर/NN मा/POP }/NNMA {चम्चा/NN ले/PLE }/NNLE {भात/NN }/NCH {खान्छु/VBF }/VCH 
+{म/PP }/PP {घर/NN मा/POP }/NNMA {उस/DUM }/DUM {लाई/PLAI }/PLAI {भन्छु/VBF }/VCH 
+{म/PP }/PP {घर/NN मा/POP }/NNMA {उस/DUM लाई/PLAI }/NNLAI {भन्छु/VBF }/VCH 
+{म/PP }/PP {घर/NN मा/POP }/NNMA {उस/DUM लाई/PLAI }/NNLAI {भन्छु/VBF }/VCH 
+{म/PP }/PP {घर/NN मा/POP }/NNMA {उस/DUM लाई/PLAI }/NNLAI {उडाउँछु/VBF }/VCH 
+{म/PP }/PP {घर/NN मा/POP }/NNMA {उस/DUM लाई/PLAI }/NNLAI {भन्छु/VBF }/VCH 
+{म/PP }/PP {घर/NN मा/POP }/NNMA {उस/DUM लाई/PLAI }/NNLAI {उफ्रीन्छ/VBF }/VCH 
+{म/PP }/PP {घर/NN मा/POP }/NNMA {उस/DUM लाई/PLAI }/NNLAI {उफ्रीन्छ/VBF }/VCH 
+{म/PP }/PP {घर/NN मा/POP }/NNMA {उफ्रीन्छु/VBF }/VCH 
+{म/PP }/PP {घर/NN मा/POP }/NNMA {उस/DUM लाई/PLAI }/NNLAI {उफ्रीन्छु/VBF }/VCH 
+{म/PP }/PP {घर/NN मा/POP }/NNMA {उफ्रीन्छु/VBF }/VCH 
+{राम/NNP }/NNP {घर/NN मा/POP }/NNMA {उफ्रीन्छ/VBF }/VCH 
+{राम/NNP }/NNP {घाम/NN मा/POP }/NNMA {उफ्रीन्छ/VBF }/VCH 
+{राम/NNP }/NNP {भात/NN }/NCH {खान्छस्/VBF }/VCH 
+{उ/DUM }/DUM {भात/NN }/NCH {खान्छस्/VBF }/VCH 
+{ऊ/DUM }/DUM {भात/NN }/NCH {खान्छस्/VBF }/VCH 
+{म/PP }/PP {भात/NN }/NCH {खान्छस्/VBF }/VCH 
+{म/PP }/PP {भात/NN }/NCH {खाइस्/VBF }/VCH 
+{तँ/PP }/PP {भात/NN }/NCH {खाइस्/VBF }/VCH 
+{तैँ/DUM ले/PLE }/PNLE {भात/NN }/NCH {खाइस्/VBF }/VCH 
+{तै/PP ले/PLE }/PNLE {भात/NN }/NCH {खायौ/VBF }/VCH 
+{तै/PP ले/PLE }/PNLE {भात/NN }/NCH {खायौ/VBF }/VCH {घर/NN }/NCH {गयो/VBF }/VCH 
+{तिमी/PP ले/PLE }/PNLE {भात/NN }/NCH {खायौ/VBF }/VCH {य/JJ }/JJ {घर/NN }/NCH {गयौ/LPK }/LPK 
+{तिमी/PP ले/PLE }/PNLE {भात/NN }/NCH {खायौ/VBF }/VCH {य/JJ }/JJ {घर/NN }/NCH {गयौ/LPK }/LPK 
+{राम/NNP }/NNP {घर/NN मा/POP }/NNMA {सुत्यो/VBF }/VCH 
+{राम/NNP }/NNP {सुत्यो/VBF }/VCH 
+{राम/NNP }/NNP {सुत्यो/VBF }/VCH 
+{राम/NNP }/NNP {किताब/NN मा/POP }/NNMA {कलम/NN ले/PLE }/NNLE {लेख्छ/VBF }/VCH 
+{ऊ/DUM }/DUM {सुत्यो/VBF }/VCH 
+{राम/NNP }/NNP {घर/NN मा/POP }/NNMA {सुत्यो/VBF }/VCH 
+{राम/NNP }/NNP {घर/NN मा/POP }/NNMA {सुत्यो/VBF }/VCH 
+{म/PP }/PP {सुत्छु/VBF }/VCH 
+{म/PP }/PP {घर/NN मा/POP }/NNMA {सुत्छु/VBF }/VCH 
+{हामी/PP }/PP {घर/NN मा/POP }/NNMA {सुत्छौँ/VBF }/VCH 
+{उहाँ/PP }/PP {सुत्नुहुन्छ/VBF }/VCH 
+{तँ/PP }/PP {सुत्छस्/DUM }/DUM 
+{तँ/PP }/PP {सुत्छौ/VBF }/VCH 
+{तँ/PP }/PP {सुत्छौ/VBF }/VCH 
+{तँ/PP }/PP {सुत्छौ/VBF }/VCH 
+{तँ/PP }/PP {सुत्छौ/VBF }/VCH 
+{हामी/PP }/PP {घर/NN मा/POP }/NNMA {सुत्छौँ/VBF }/VCH 
+{हामी/PP }/PP {घर/NN मा/POP }/NNMA {सुत्छौँ/VBF }/VCH 
+{हामी/PP }/PP {घर/NN मा/POP }/NNMA {सुत्छौँ/VBF }/VCH 
+{हामी/PP }/PP {घर/NN मा/POP }/NNMA {सुत्छौँ/VBF }/VCH 
+{तँ/PP }/PP {सुत्छस्/DUM }/DUM 
+{तँ/PP }/PP {सुत्छस्/DUM }/FVCH 
+{तँ/PP }/PP {सुत्छौ/VBF }/VCH 
+{तँ/PP }/PP {सुत्छस्/DUM }/FVCH 
+{तँ/PP }/PP {सुत्छस्/DUM }/VCH 
+{ऊ/DUM }/VCH {सुत्छ/VBF }/VCH 
+{ऊ/DUM }/DUM {सुत्छ/VBF }/VCH 
+{उनी/DUM }/DUM {सुत्छन्/VBF }/VCH 
+{उनी/DUM }/DUM {सुत्छन्/VBF }/VCH 
+{उनी/DUM }/DUM {सुत्छीन्/VBF }/VCH 
+{उनी/DUM }/DUM {सुत्छिन्/VBF }/VCH 
+{उनी/DUM }/DUM {सुत्छिन्/VBF }/VCH 
+{उनीहरु/DUM }/DUM {सुत्छिन्/VBF }/VCH 
+{उनीहरु/DUM }/DUM {सुत्छन्/VBF }/VCH 
+{उहाँ/PP }/PP {सुत्नुहुन्छ/VBF }/VCH 
+{उहाँ/PP }/PP {सुत्नुहुन्छ/VBF }/VCH 
+{उहाँ/PP }/PP {कोठा/NN मा/POP }/NNMA {सुत्नुहुन्छ/VBF }/VCH 
+{उहाँ/PP }/PP {कोठा/NN मा/POP }/NNMA {सुत्नुहुन्/VBF }/VCH 
+{उहाँ/PP }/PP {कोठा/NN मा/POP }/NNMA {बस्नुहुन्छ/VBF }/VCH 
+{उहाँ/PP }/PP {कोठा/NN मा/POP }/NNMA {डुल्नुहुन्छ/VBF }/VCH 
+{उहाँ/PP }/PP {कोठा/NN मा/POP }/NNMA {डुल्एँ/VBF }/VCH 
+{म/PP }/PP {कोठा/NN मा/POP }/NNMA {डुल्एँ/VBF }/VCH 
+{म/PP }/PP {कोठा/NN मा/POP }/NNMA {डुल्एँ/VBF }/VCH 
+{म/PP }/PP {कोठा/NN मा/POP }/NNMA {डुल्एँ/VBF }/VCH 
+{म/PP }/PN {कोठा/NN मा/POP }/NNMA {डुल्एँ/VBF }/VCH 
+{म/PP }/PN {डुल्एँ/VBF }/VCH 
+{म/PP }/PN {डुल्एँ/VBF }/VCH 
+{म/PP }/PN {डुल्एँ/VBF }/VCH 
+{म/PP }/PN {डुल्एँ/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {सीता/NNP }/PN {लाई/PLAI }/PLAI {किताब/NN }/NCH {दियो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {सीता/NNP }/PN {लाई/PLAI }/PLAI {किताब/NN }/NCH {दियो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {सीता/NNP }/PN {लाई/PLAI }/PLAI {किताब/NN }/NCH {दियो/VBF }/VCH 
+{राम/NNP }/PN {सीता/NNP }/PN {लाई/PLAI }/PLAI {किताब/NN }/NCH {दिन्छ/VBF }/VCH 
+{राम/NNP }/PN {सीता/NNP }/PN {लाई/PLAI }/PLAI {किताब/NN }/NCH {दिन्छ/VBF }/VCH 
+{राम/NNP }/PN {सीता/NNP }/PN {लाई/PLAI }/PLAI {किताब/NN }/NCH {दिन्छ/VBF }/VCH 
+{राम/NNP }/PN {सीता/NNP }/PN {लाई/PLAI }/PLAI {किताब/NN }/NCH {दिन्छ/VBF }/VCH 
+{राम/NNP }/NNP {सीता/NNP }/NNP {लाई/PLAI }/PLAI {किताब/NN }/NCH {दिन्छ/VBF }/VCH 
+{राम/NNP }/NNP {सीता/NNP लाई/PLAI }/NNLAI {किताब/NN }/NCH {दिन्छ/VBF }/VCH 
+{राम/NNP }/NNP {सीता/NNP लाई/PLAI }/NNLAI {किताब/NN }/NCH {दिन्छ/VBF }/VCH 
+{राम/NNP }/NNP {सीता/NNP लाई/PLAI }/NNLAI {किताब/NN }/NCH {दिन्छ/VBF }/VCH 
+{राम/NNP }/NNP {सीता/NNP लाई/PLAI }/NNLAI {किताब/NN }/NCH {दिन्छ/VBF }/VCH 
+{उहाँ/PP }/PP {सीता/NNP लाई/PLAI }/NNLAI {किताब/NN }/NCH {दिन्छ/VBF }/VCH 
+{उहाँ/PP }/PP {सीता/NNP लाई/PLAI }/NNLAI {किताब/NN }/NCH {दिनुहुन्छ/VBF }/VCH 
+{उहाँ/PP }/PP {सीता/NNP लाई/PLAI }/NNLAI {किताब/NN }/NCH {दिनुहुन्छ/VBF }/VCH 
+{उहाँ/PP }/PP {सीता/NNP लाई/PLAI }/NNLAI {किताब/NN }/NCH {दिनुहुन्छ/VBF }/VCH 
+{उहाँ/PP }/PP {सीता/NNP लाई/PLAI }/NNLAI {किताब/NN }/NCH {दिनुहुन्छ/VBF }/VCH 
+{उहाँ/PP }/PP {सीता/NNP लाई/PLAI }/NNLAI {किताब/NN }/NCH {दिनुहुन्छ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {किताब/NN }/NCH {दिएँ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {हात/NN मा/POP }/NNMA {किताब/NN }/NCH {दिएँ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {हात/NN ले/PLE }/NNLE {हात/NN मा/POP }/NNMA {किताब/NN }/NCH {दिएँ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {हात/NN ले/PLE }/NNLE {पशुपति/NNP }/NNP {मा/POP }/POP {किताब/NN }/NCH {दिएँ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {हात/NN ले/PLE }/NNLE {पशुपति/NNP मा/POP }/NNMA {किताब/NN }/NCH {दिएँ/VBF }/VCH 
+{म/PP }/PP {लाई/PLAI }/PLAI {भोक/NN }/NCH {लाग्यो/VBF }/VCH 
+{म/PP }/PP {लाई/PLAI }/PLAI {भोक/NN }/NCH {लाग्यो/VBF }/VCH 
+{म/PP }/PP {लाई/PLAI }/PLAI {भोक/NN }/NCH {लाग्यो/VBF }/VCH 
+{उहाँ/PP }/PP 
+{म/PP }/PP {लाई/PLAI }/PLAI {भोक/NN }/NCH {लाग्यो/VBF }/VCH 
+{म/PP }/PP {लाई/PLAI }/PLAI {भोक/NN }/NCH {लाग्यो/VBF }/VCH 
+{म/PP }/PP {लाई/PLAI }/PLAI {भोक/NN }/NCH {लाग्यो/VBF }/VCH 
+{म/PP }/PP {लाई/PLAI }/PLAI {भोक/NN }/NCH {लाग्यो/VBF }/VCH 
+{म/PP }/PP {लाई/PLAI }/PLAI {भोक/NN }/NCH {लाग्यो/VBF }/VCH 
+{म/PP }/PP {लाई/PLAI }/PLAI {भोक/NN }/NCH {लाग्यो/VBF }/VCH 
+{म/PP }/PP {लाई/PLAI }/PLAI {पेट/NN मा/POP }/NNMA {भोक/NN }/NCH {लाग्यो/VBF }/VCH 
+{म/PP }/PP {लाई/PLAI }/PLAI {रमाईलो/JJM }/JJM {लाग्यो/VBF }/VCH 
+{म/PP }/PP {लाई/PLAI }/PLAI {ज्वोरो/JJM }/JJM {लाग्यो/VBF }/VCH 
+{म/PP }/PP {लाई/PLAI }/PLAI {कलम/NN }/NCH {लाग्यो/VBF }/VCH 
+{म/PP }/PP {घर/NN }/NCH {जान्छु/VBF }/VCH 
+{आ/NN मा/POP }/NNMA {घर/NN }/NCH {जानुभयो/VBF }/VCH 
+{आमा/NN }/NCH {घर/NN }/NCH {जानुभयो/VBF }/VCH 
+{आमा/NN }/NCH {घर/NN }/NCH {जानुभयो/VBF }/VCH 
+{आमा/NN }/NCH {घर/NN }/NCH {जानुभयो/VBF }/VCH 
+{आमा/NN }/NCH {घर/NN }/NCH {जानुभयो/VBF }/VCH 
+{आमा/NN }/NN {घर/NN }/NN {जानुभयो/VBF }/VCH 
+{आमा/NN }/NCH {घर/NN }/NCH {जानुभयो/VBF }/VCH 
+{आमा/NN }/NCH {घर/NN }/NCH {जानुभयो/VBF }/VCH 
+{आमा/NN }/NCH {घर/NN }/NCH {जानुहुन्छ/VBF }/VCH 
+{राम/NNP }/NNP {घर/NN }/NCH {जानुहुन्छ/VBF }/VCH 
+{तपाईँ/NN }/NCH {घर/NN }/NCH {जानुहुन्छ/VBF }/VCH 
+{तपाईँ/NN }/NCH {घर/NN }/NCH {जानुभयो/VBF }/VCH 
+{तपाईँ/NN }/NCH {घर/NN मा/POP }/NNMA {जानुभयो/VBF }/VCH 
+{तौज/NNP ले/PLE }/PNLE {बस्छ/VBF }/VCH 
+{तौज/NN }/NCH {बस्छ/VBF }/VCH 
+{राम/NNP }/NNP {भात/NN }/NCH {खान्छ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {हात/NN ले/PLE }/NNLE {पशुपति/NNP मा/POP }/NNMA {किताब/NN }/NCH {दिएँ/VBF }/VCH 
+{हामी/PP ले/PLE }/PNLE {किताब/NN }/NCH {पढ्नेछौँ/VBF }/VCH 
+{हामी/PP }/PP {किताब/NN }/NCH {पढ्नेछौँ/VBF }/VCH 
+{हामी/PP }/PP {किताब/NN }/NCH {पढ्नेछौँ/VBF }/VCH 
+{राम/NNP }/NNP {किताब/NN }/NCH {पढ्छ/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {किताब/NN }/NCH {पढ्छ/VBF }/VCH 
+{किताब/NN }/NCH {पढ्नेछ/VBF }/VCH 
+{किताब/NN }/NCH {पढ्नेछ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {भात/NN }/NCH {खाएँ/VBF }/VCH 
+{हजुर/PP }/PP {भात/NN }/NCH {खाएँ/VBF }/VCH 
+{तपाईँ/NN }/NCH {भात/NN }/NCH {खाएँ/VBF }/VCH 
+{तपाई/PP }/PP {भात/NN }/NCH {खाएँ/VBF }/VCH 
+{तपाई/PP ले/PLE }/PNLE {भात/NN }/NCH {खाएँ/VBF }/VCH 
+{तपाई/PP ले/PLE }/PNLE {भात/NN }/NCH {खानुभयो/VBF }/VCH 
+{तपाई/PP ले/PLE }/PNLE {भात/NN }/NCH {खानुभयो/VBF }/VCH 
+{तपाई/PP }/PP {भात/NN }/NCH {खादै/VBO }/VBO {हुनुहुन्छ/VBF }/VCH 
+{तपाई/PP }/PP {भात/NN }/NCH {खाँदै/VBO }/VBO {हुनुहुन्छ/VBF }/VCH 
+{तँ/PP }/PP {हिँड्छस्/DUM }/DUM 
+{तँ/PP }/PP {हिड्छस्/DUM }/DUM 
+{तँ/PP }/PP {हिँड्/VBF }/VCH 
+{तँ/PP }/PP {हिँड्छस/NN }/NCH 
+{तँ/PP }/PP {हिँड्छस्/DUM }/DUM 
+{तँ/PP }/PP {हिँड्छस्/DUM }/DUM 
+{म/PP }/PP {घर/NN मा/POP }/NNMA {उफ्रीन्छु/VBF }/VCH 
+{म/PP }/PP {आँगन/NN मा/POP }/NNMA {उफ्रीन्छु/VBF }/VCH 
+{तँ/PP }/PP {सुत्छस्/DUM }/DUM 
+{तँ/PP }/PP {हिँड्छस्/DUM }/DUM 
+{मै/PP ले/PLE }/PNLE {किताब/NN }/NCH {हात/NN ले/PLE }/NNLE {पशुपति/NNP मा/POP }/NNMA {सीता/NNP लाई/PLAI }/NNLAI {दिएँ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {हात/NN ले/PLE }/NNLE {पशुपति/NNP मा/POP }/NNMA {किताब/NN }/NCH {दिएँ/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {भात/NN }/NCH {खान्छ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {हात/NN ले/PLE }/NNLE {पशुपति/NNP मा/POP }/NNMA {किताब/NN }/NCH {कापी/JJ }/JJ {दिएँ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {हात/NN ले/PLE }/NNLE {पशुपति/NNP मा/POP }/NNMA {कापी/JJ }/JJ {किताब/NN }/NCH {दिएँ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {हात/NN ले/PLE }/NNLE {पशुपति/NNP मा/POP }/NNMA {कपी/JJ }/JJ {किताब/NN }/NCH {दिएँ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {हात/NN ले/PLE }/NNLE {पशुपति/NNP मा/POP }/NNMA {कलम/NN }/NCH {किताब/NN }/NCH {दिएँ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {हात/NN ले/PLE }/NNLE {पशुपति/NNP मा/POP }/NNMA {कलम-किताब/NN }/NCH {दिएँ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {किताब/NN }/NCH {दिएँ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {किताब/NN }/NCH {दिएँ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {किताब/NN }/NCH {दिएँ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {दिएँ/VBF }/VCH 
+{मै/PP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {किताब/NN }/NCH {दिएँ/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {भात/NN }/NCH {खायो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {हरि/NNP लाई/PLAI }/NNLAI {किताब/NN }/NCH {दियो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {हरि/NNP लाई/PLAI }/NNLAI {किताब/NN }/NCH 
+{राम/NNP ले/PLE }/PNLE {हरि/NNP लाई/PLAI }/NNLAI {किताब/NN }/NCH 
+{राम/NNP ले/PLE }/PNLE {हरि/NNP लाई/PLAI }/NNLAI {किताब/NN }/NCH {दियो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {हरि/NNP लाई/PLAI }/NNLAI {दियो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {भात/NN }/NCH {खायो/VBF }/VCH 
+{राम/NNP }/NNP {भात/NN }/NCH {खायो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {वेलायत/NNP मा/POP }/NNMA {किताब/NN }/NCH {दियो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {घर/NN मा/POP }/NNMA {किताब/NN }/NCH {दियो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {घर/NN मा/POP }/NNMA {किताब/NN }/NCH {सीता/NNP लाई/PLAI }/NNLAI {दियो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {घर/NN मा/POP }/NNMA {किताब/NN }/NCH {सीता/NNP लाई/PLAI }/NNLAI {दियो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {भात/NN }/NCH {खायो/VBF }/VCH 
+{राम/NNP }/NNP {भात/NN }/NCH {खान्छ/VBF }/VCH 
+{राम/NNP }/NNP {भात/NN }/NCH {खाएछ/VBF }/VCH 
+{राम/NNP }/NNP {भात/NN }/NCH {खायोहोला/NN }/NCH 
+{राम/NNP }/NNP {भात/NN }/NCH {खान्थ्यो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {भात/NN }/NCH {खाएछ/VBF }/VCH 
+{राम/NNP }/NNP {भात/NN }/NCH {खाएछ/VBF }/VCH 
+{राम/NNP }/NNP {भात/NN }/NCH {खानेछ/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {थाल/NN मा/POP }/NNMA {भात/NN }/NCH {दियो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {काँच/NN को/PKO }/NCH {थाल/NN मा/POP }/NNMA {भात/NN }/NCH {दियो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {काँच/NN को/PKO थाल/NN मा/POP }/NCH {भात/NN }/NCH {दियो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {सीता/NNP लाई/PLAI }/NNLAI {काँच/NN को/PKO }/NCH {थाल/NN मा/POP }/NNMA {भात/NN }/NCH {दियो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {खाना/VBI }/VBI {खायो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {खाना/VBI }/VBI {खायो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {भात/NN }/NCH {खायो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {भात/NN }/NCH {खायो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {भात/NN }/NCH {खायो/VBF }/VCH 
+{राम/NNP }/NNP {भात/NN }/NCH {खायो/VBF }/VCH 
+{राम/NNP }/NNP {भात/NN }/NCH {खान्छ/VBF }/VCH 
+{राम/NNP }/NNP {भात/NN }/NCH {खान्छ/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {भात/NN }/NCH {खायो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {भात/NN }/NCH {खायो/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {भात/NN }/NCH {खानेछ/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {भात/NN }/NCH {खानेछ/VBF }/VCH 
+{राम/NNP ले/PLE }/PNLE {भात/NN }/NCH {खान्छ/VBF }/VCH {।/YF }/YF 
+{राम/NNP ले/PLE }/PNLE {भात/NN }/NCH {खान्छ/VBF }/VCH {।/YF }/YF 
+{राम/NNP ले/PLE }/PNLE {भात/NN }/NCH {खान्छ/VBF }/VCH {।/YF }/YF 
+{राम/NNP }/NNP {भात/NN }/NCH {खान्छ/VBF }/VCH {।/YF }/YF 
+{राम/NNP }/NNP {भात/NN }/NCH {खान्छ/VBF }/VCH {।/YF }/YF 
+{राम/NNP }/NNP {भात/NN }/NCH {खान्छ/VBF }/VCH {।/YF }/YF 
+{राम/NNP }/NNP {भात/NN }/NCH {खान्छ/VBF }/VCH {।/YF }/YF 
+{राजा/NN ले/PLE }/NNLE {खाना/VBI }/VBI {खानुहुन्छ/VBF }/VCH 
+{राजा/NN ले/PLE }/NNLE {मासु/NN }/NCH {खानुहुन्छ/VBF }/VCH 
+{राजा/NN ले/PLE }/NNLE {मासु/NN }/NCH {खानुहुन्छ/VBF }/VCH 
+{राजा/NN ले/PLE }/NNLE {मासु/NN }/NCH {खानुहुन्छ/VBF }/VCH 
+{राजा/NN ले/PLE }/NNLE {मासु/NN }/NCH {खानुहुन्छ/VBF }/VCH 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{खजाना/NN }/NCH 
+{संघार/CD }/CD {मै/POP }/POP 
+{सार्क/NN }/NCH 
+{सार्कसुस्त/JJ }/JJ 
+{सार्कसुस्त/JJ }/JJ 
+{सुस्त/JJ }/JJ 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{सार्क/NN }/NCH 
+{शिखर/NN }/NCH 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{शिखर/NN }/NCH 
+{शिखर/NN }/NCH 
+{शिखर/NN }/NCH 
+{रुन्छ/VBF }/VCH 
+{रुन्छ/VBF }/VCH 
+{रुन्छ/VBF }/VCH 
+{रुन्छ/VBF }/VCH 
+{असाध्य/JJ }/JJ 
+{राम/NNP }/NNP {भात/NN }/NCH {खान्छ/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {राम्रो/JJM }/JJM {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {राम्रो/JJM }/JJM {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {राम्रो/JJM }/JJM {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {राम्रो/JJM }/JJM {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {राम्रो/JJM }/JJM {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{म/PP }/PP {भात/NN }/NCH {खान्छु/VBF }/VCH 
+{म/PP }/PP {भात/NN }/NCH 
+{म/PP }/PP {खान्छु/VBF }/VCH 
+{म/PP }/PP {भात/NN }/NCH {खान्छु/VBF }/VCH 
+{भात/NN }/NCH {खान्छु/VBF }/VCH 
+{भात/NN }/NCH {खान्छु/VBF }/VCH 
+{भात/NN }/NCH {खान्छु/VBF }/VCH 
+{भात/NN }/NCH {खान्छु/VBF }/VCH 
+{भात/NN }/NCH {खान्छु/VBF }/VCH 
+{भात/NN }/NCH {खान्छु/VBF }/VCH 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{सरकार/NN ले/PLE }/NNLE {आयोजक/NN का/PKO }/NCH {हैसियत/NN ले/PLE }/NNLE {त्यस/DUM }/DUM {को/PKO }/PKO {तयारी/NN }/NCH {अलि/JJ }/JJ 
+{अगाडि/RBM }/RBM {सुरु/NN }/NCH {गरिसक्नुपथ्र्यो/VBF }/VCH {।/YF }/YF 
+{सरकार/NN ले/PLE }/NNLE {आयोजक/NN का/PKO }/NCH {हैसियत/NN ले/PLE }/NNLE {त्यस/DUM }/DUM {को/PKO }/PKO {तयारी/NN }/NCH {अलि/JJ }/JJ 
+{अगाडि/RBM }/RBM {सुरु/NN }/NCH {गरिसक्नुपथ्र्यो/VBF }/VCH {।/YF }/YF 
+{सरकार/NN ले/PLE }/NNLE {आयोजक/NN का/PKO }/NCH {हैसियत/NN ले/PLE }/NNLE {त्यस/DUM }/DUM {को/PKO }/PKO {तयारी/NN }/NCH {अलि/JJ }/JJ 
+{अगाडि/RBM }/RBM {सुरु/NN }/NCH {गरिसक्नुपथ्र्यो/VBF }/VCH {।/YF }/YF 
+{सरकार/NN ले/PLE }/NNLE {आयोजक/NN का/PKO }/NCH {हैसियत/NN ले/PLE }/NNLE {त्यस/DUM }/DUM {को/PKO }/PKO {तयारी/NN }/NCH {अलि/JJ }/JJ 
+{अगाडि/RBM }/RBM {सुरु/NN }/NCH {गरिसक्नुपथ्र्यो/VBF }/VCH {।/YF }/YF 
+{सरकार/NN ले/PLE }/NNLE {आयोजक/NN का/PKO }/NCH {हैसियत/NN ले/PLE }/NNLE {त्यस/DUM }/DUM {को/PKO }/PKO {तयारी/NN }/NCH {अलि/JJ }/JJ 
+{अगाडि/RBM }/RBM {सुरु/NN }/NCH {गरिसक्नुपथ्र्यो/VBF }/VCH {।/YF }/YF 
+
+{को/PKO }/PKO 
+{का/PKO }/PKO 
+{की/CS }/CS {रो/JJM }/JJM {रा/NN }/NCH {री/VBO }/VBO {नो/JJ }/JJ {ना/NN }/NCH {नी/UNW }/UNW 
+
+{को/PKO }/PKO 
+{का/PKO }/PKO 
+{की/CS }/CS {रो/JJM }/JJM {रा/NN }/NCH {री/VBO }/VBO {नो/JJ }/JJ {ना/NN }/NCH {नी/UNW }/UNW 
+{लाई/PLAI }/PLAI 
+
+{को/PKO }/PKO 
+{का/PKO }/PKO 
+{की/CS }/CS {रो/JJM }/JJM {रा/NN }/NCH {री/VBO }/VBO {नो/JJ }/JJ {ना/NN }/NCH {नी/UNW }/UNW 
+{लाई/PLAI }/PLAI 
+{संग/POP }/POP 
+
+{को/PKO }/PKO 
+{का/PKO }/PKO 
+{की/CS }/CS {रो/JJM }/JJM {रा/NN }/NCH {री/VBO }/VBO {नो/JJ }/JJ {ना/NN }/NCH {नी/UNW }/UNW 
+{लाई/PLAI }/PLAI 
+{संग/POP }/POP {खानो/NN }/NCH 
+
+{को/PKO }/PKO 
+{का/PKO }/PKO 
+{की/CS }/CS {रो/JJM }/JJM {रा/NN }/NCH {री/VBO }/VBO {नो/JJ }/JJ {ना/NN }/NCH {नी/UNW }/UNW 
+{लाई/PLAI }/PLAI 
+{संग/POP }/POP {नजानो/NN }/NCH 
+
+{को/PKO }/PKO 
+{का/PKO }/PKO 
+{की/CS }/CS {रो/JJM }/JJM {रा/NN }/NCH {री/VBO }/VBO {नो/JJ }/JJ {ना/NN }/NCH {नी/UNW }/UNW 
+{लाई/PLAI }/PLAI 
+{संग/POP }/POP {जाने/VBNE }/VBNE {को/PKO }/PKO 
+
+{को/PKO }/PKO 
+{का/PKO }/PKO 
+{की/CS }/CS {रो/JJM }/JJM {रा/NN }/NCH {री/VBO }/VBO {नो/JJ }/JJ {ना/NN }/NCH {नी/UNW }/UNW 
+{लाई/PLAI }/PLAI 
+{संग/POP }/POP {जाने/VBNE }/VBNE {की/PKO }/PKO 
+
+{को/PKO }/PKO 
+{का/PKO }/PKO 
+{की/CS }/CS {रो/JJM }/JJM {रा/NN }/NCH {री/VBO }/VBO {नो/JJ }/JJ {ना/NN }/NCH {नी/UNW }/UNW 
+{लाई/PLAI }/PLAI 
+{संग/POP }/POP {जाने/VBNE }/VBNE {लाई/PLAI }/PLAI 
+{सरकार/NN ले/PLE }/NNLE {आयोजक/NN का/PKO }/NCH {हैसियत/NN ले/PLE }/NNLE {त्यस/DUM }/DUM {को/PKO }/PKO {तयारी/NN }/NCH {अलि/JJ }/JJ 
+{अगाडि/RBM }/RBM {सुरु/NN }/NCH {गरिसक्नुपथ्र्यो/VBF }/VCH {।/YF }/YF 
+{सरकार/NN ले/PLE }/NNLE {आयोजक/NN का/PKO }/NCH {हैसियत/NN ले/PLE }/NNLE {त्यस/DUM }/DUM {को/PKO }/PKO {तयारी/NN }/NCH {अलि/JJ }/JJ 
+{अगाडि/RBM }/RBM {सुरु/NN }/NCH {गरिसक्नुपथ्र्यो/VBF }/VCH {।/YF }/YF 
+{सरकार/NN ले/PLE }/NNLE {आयोजक/NN का/PKO }/NCH {हैसियत/NN ले/PLE }/NNLE {त्यस/DUM }/DUM {को/PKO }/PKO {तयारी/NN }/NCH {अलि/JJ }/JJ 
+{अगाडि/RBM }/RBM {सुरु/NN }/NCH {गरिसक्नुपथ्र्यो/VBF }/VCH {।/YF }/YF 
+{भात/NN }/NCH {खान्छु/VBF }/VCH 
+{भात/NN }/NCH {खान्छु/VBF }/VCH 
+{भात/NN }/NCH {खान्छु/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {हो/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{अित/JJ }/JJ 
+{धेरै/CD }/CD 
+{धेरै/CD }/CD 
+{धेरै/CD }/CD 
+{धेरै/CD }/CD 
+{धेरै/CD }/CD 
+{धेरै/CD }/CD 
+{धेरै/CD }/CD 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{राम/NNP }/NNP {खराब/JJ }/JJ {मान्छे/NN }/NCH {होइन/VBF }/VCH 
+{सरकार/NN ले/PLE }/NNLE {आयोजक/NN का/PKO }/NCH {हैसियत/NN ले/PLE }/NNLE {त्यस/DUM }/DUM {को/PKO }/PKO {तयारी/NN }/NCH {अलि/JJ }/JJ 
+{अगाडि/RBM }/RBM {सुरु/NN }/NCH {गरिसक्नुपथ्र्यो/VBF }/VCH {।/YF }/YF 
+{सरकार/NN ले/PLE }/NNLE {आयोजक/NN का/PKO }/NCH {हैसियत/NN ले/PLE }/NNLE {त्यस/DUM }/DUM {को/PKO }/PKO {तयारी/NN }/NCH {अलि/JJ }/JJ 
+{अगाडि/RBM }/RBM {सुरु/NN }/NCH {गरिसक्नुपथ्र्यो/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{कात्तिक/JJ }/JJ {२५/CD }/CD 
+{भित्र/POP }/POP {सार्कलक्षित/JJ }/JJ {भौतिक/JJ }/JJ {पूर्वाधार/NN का/PKO }/NCH {सम्पूर्ण/JJ }/JJ {तयारी/NN }/NCH {पूरा/JJ }/JJ {गर्ने/VBNE }/VBNE {दाबी/NN }/NCH {गरे/VBF }/VCH {पनि/RP }/RP {ठाउँ-ठाउँ/NN मा/POP }/NNMA {निर्माण/NN }/NCH {कार्य/NN }/NCH {र/CC }/CC {सरसफाइ/NN }/NCH {सकिए/VBF }/VCH {को/PKO }/PKO {छैन/VBF }/VCH {।/YF }/YF 
+{विमानस्थल-तीनकुने/VBNE }/VBNE {सडक/NN }/NCH {खण्ड/NN का/PKO }/NCH {छेउ/NN मा/POP }/NNMA {माटो/NN }/NCH {बालुवा/NN }/NCH {सिमेन्ट/NN }/NCH {असरल्ल/RBM }/RBM {थुपारिए/VBF }/VCH {का/PKO }/PKO {छन्/VBF }/VCH {।/YF }/YF 
+{कति/DUM }/DUM {सम्म/POP }/POP {भने/RP }/RP {मुख्य/JJ }/JJ {सम्मेलनस्थल/NN }/NCH {सभागृह/NN }/NCH {पूर्ण/JJ }/JJ {रूप/NN मा/POP }/NNMA {तयार/JJ }/JJ {भइसके/VBF }/VCH {को/PKO }/PKO {छैन/VBF }/VCH {।/YF }/YF 
+{यो/DUM }/DUM {सबै/JJ }/JJ {ढिलो/JJM }/JJM {काम/NN }/NCH {थाल्नु/VBI }/VBI {को/PKO }/PKO {परिणाम/NN }/NCH {हो/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{कात्तिक/JJ }/JJ {२५/CD }/CD 
+{भित्र/POP }/POP {सार्कलक्षित/JJ }/JJ {भौतिक/JJ }/JJ {पूर्वाधार/NN का/PKO }/NCH {सम्पूर्ण/JJ }/JJ {तयारी/NN }/NCH {पूरा/JJ }/JJ {गर्ने/VBNE }/VBNE {दाबी/NN }/NCH {गरे/VBF }/VCH {पनि/RP }/RP {ठाउँ-ठाउँ/NN मा/POP }/NNMA {निर्माण/NN }/NCH {कार्य/NN }/NCH {र/CC }/CC {सरसफाइ/NN }/NCH {सकिए/VBF }/VCH {को/PKO }/PKO {छैन/VBF }/VCH {।/YF }/YF 
+{विमानस्थल-तीनकुने/VBNE }/VBNE {सडक/NN }/NCH {खण्ड/NN का/PKO }/NCH {छेउ/NN मा/POP }/NNMA {माटो/NN }/NCH {बालुवा/NN }/NCH {सिमेन्ट/NN }/NCH {असरल्ल/RBM }/RBM {थुपारिए/VBF }/VCH {का/PKO }/PKO {छन्/VBF }/VCH {।/YF }/YF 
+{कति/DUM }/DUM {सम्म/POP }/POP {भने/RP }/RP {मुख्य/JJ }/JJ {सम्मेलनस्थल/NN }/NCH {सभागृह/NN }/NCH {पूर्ण/JJ }/JJ {रूप/NN मा/POP }/NNMA {तयार/JJ }/JJ {भइसके/VBF }/VCH {को/PKO }/PKO {छैन/VBF }/VCH {।/YF }/YF 
+{यो/DUM }/DUM {सबै/JJ }/JJ {ढिलो/JJM }/JJM {काम/NN }/NCH {थाल्नु/VBI }/VBI {को/PKO }/PKO {परिणाम/NN }/NCH {हो/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {सम्मेलन/NN }/NCH {नेपाल/NNP मा/POP }/NNMA {हुने/VBNE }/VBNE {टुंगो/NN }/NCH {माल्दिभ्स/NNP मा/POP }/NNMA {सत्रौं/OD }/OD {सम्मेलन/NN }/NCH {सकिंदै/VBO }/VBO {भइसके/VBF }/VCH {को/PKO }/PKO {थियो/VBF }/VCH {।/YF }/YF 
+{सरकार/NN ले/PLE }/NNLE {आयोजक/NN का/PKO }/NCH {हैसियत/NN ले/PLE }/NNLE {त्यस/DUM }/DUM {को/PKO }/PKO {तयारी/NN }/NCH {अलि/JJ }/JJ 
+{अगाडि/RBM }/RBM {सुरु/NN }/NCH {गरिसक्नुपथ्र्यो/VBF }/VCH {।/YF }/YF 
+{तर/CC }/CC {दुई/CD }/CD {महिना/NN अघि/POP }/NNMA {मात्रै/RP }/RP {सम्मेलन/NN को/PKO }/NCH {तयारी/NN }/NCH {थालियो/VBF }/VCH {।/YF }/YF 
+{नतिजा/NN }/NCH {सम्मेलन/NN }/NCH {दैलो/NN मै/POP }/NNMA {आइसक्दा/VBO }/VBO {पनि/RP }/RP {कतिपय/DUM }/DUM {पूर्वाधारहरू/NNP }/NNP {अधुरै/NN }/NCH {छन्/VBF }/VCH {।/YF }/YF 
+{यस/DUM ले/PLE }/PNLE {सरकार/NN को/PKO }/NCH {ढिलासुस्ती/NN }/NCH {र/CC }/CC {अदूरदर्शी/JJ }/JJ {प्रवृत्ति/NN लाई/PLAI }/NCH {पुन:/JJ }/JJ {उजागर/NN }/NCH {गरे/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {।/YF }/YF 
+{हामी/PP }/PP {सँग/POP }/POP {यस/DUM }/DUM {अघि/POP }/POP {दुईपटक/RBM }/RBM {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {आयोजना/NN }/NCH {गरे/VBF }/VCH {को/PKO }/PKO {अनुभव/NN }/NCH {छ/VBF }/VCH {।/YF }/YF 
+{तेस्रो/OD }/OD {र/CC }/CC {एघारौं/OD }/OD {सार्क/NN }/NCH {सम्मेलन/NN }/NCH {नेपाल/NNP ले/PLE }/PNLE {गरिसके/VBF }/VCH {को/PKO }/PKO {थियो/VBF }/VCH {।/YF }/YF 
+{त्यस/DUM }/DUM {क्रम/NN मा/POP }/NNMA {भए/VBF }/VCH {का/PKO }/PKO {कतिपय/DUM }/DUM {त्रुटि/NN }/NCH {कमजोरी/NN }/NCH {सच्याउँदै/VBO }/VBO {सार्थक/JJ }/JJ {र/CC }/CC {सफल/JJ }/JJ {सार्क/NN }/NCH {सम्मेलन/NN }/NCH {सम्पन्न/JJ }/JJ {गर्ने/VBNE }/VBNE {अवसर/NN }/NCH {यतिखेर/RBO }/RBO {हामी/PP }/PP {लाई/PLAI }/PLAI {फेरि/RBM }/RBM {आए/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {।/YF }/YF 
+{अर्/NN को/PKO }/NCH {अवसर/NN }/NCH {आउन/VBI }/VBI {कम्ती/JJ }/JJ {मा/POP }/POP {अर्/VBF }/VCH {को/PKO }/PKO {१४/CD }/CD {वर्ष/NN }/NCH {कुर्नुपर्ने/VBNE }/VBNE {हुनसक्छ/VBF }/VCH {।/YF }/YF 
+{त्यसकारण/RBM }/RBM {पनि/RP }/RP {सरकार/NN ले/PLE }/NNLE {सार्क/NN }/NCH {सम्मेलन/NN को/PKO }/NCH {आयोजना/NN }/NCH {गर्ने/VBNE }/VBNE {विषय/NN लाई/PLAI }/NCH {अवसर/NN का/PKO }/NCH {रूप/NN मा/POP }/NNMA {लिन/VBI }/VBI {सक्नुपर्ने/VBNE }/VBNE {मा/POP }/POP {फेरि/RBM }/RBM {उही/DUM }/DUM {तदर्थवाद/NN मै/POP }/NNMA {रुमल्लिने/VBNE }/VBNE {अवस्था/NN }/NCH {सिर्जना/NN }/NCH {हुनु/VBI }/VBI {विडम्बना/NN }/NCH {हो/VBF }/VCH {।/YF }/YF 
+{हतार/NN मा/POP }/NNMA {तयारी/NN }/NCH {गर्ने/VBNE }/VBNE {बिनायोजना/NN }/NCH {बजेट/NN }/NCH {विनियोजन/NN }/NCH {गर्ने/VBNE }/VBNE {मिले/VBF }/VCH {सम्म/POP }/POP {लाभ/NN }/NCH {लिन/VBI }/VBI {उद्यत/NN }/NCH {हुने/VBNE }/VBNE {प्रवृत्ति/NN }/NCH {समेत/RP }/RP {यसबीच/NN मा/POP }/NNMA {छरपस्ट/JJ }/JJ {देखिनु/VBI }/VBI {दुर्भाग्यपूर्ण/JJ }/JJ {हो/VBF }/VCH {।/YF }/YF 
+{अवस्था/NN }/NCH {कति/DUM }/DUM {सम्म/POP }/POP {दुर्भाग्यपूर्ण/JJ }/JJ {छ/VBF }/VCH {भने/CS }/CS {हामी/PP }/PP {सँग/POP }/POP {अन्तर्राष्ट्रिय/JJ }/JJ {स्तर/NN को/PKO }/NCH {सभा-सम्मेलन/NN }/NCH {गर्ने/VBNE }/VBNE {एउटा/NN }/NCH {सुविधासम्पन्न/JJ }/JJ {सेमिनार/NN }/NCH {हल/NN }/NCH {समेत/RP }/RP {रहेन/VBF }/VCH {छ/VBF }/VCH {।/YF }/YF 
+{पहिलोपटक/RBM }/RBM {सार्क/NN }/NCH {सम्मेलन/NN }/NCH {तेस्रो/OD }/OD 
+{का/PKO }/PKO {बेला/NN मा/POP }/NNMA {कमलादी/NN को/PKO }/NCH {प्रज्ञा/NNP }/NNP {भवन/NN लाई/PLAI }/NCH {प्रयोग/NN }/NCH {गरिए/VBF }/VCH {को/PKO }/PKO {थियो/VBF }/VCH {भने/CS }/CS {दोस्रोपटक/RBM }/RBM {एघारौं/OD }/OD {गर्दा/VBO }/VBO {अन्तर्राष्ट्रिय/JJ }/JJ {सम्मेलन/NN }/NCH {केन्द्र/NN मा/POP }/NNMA {आयोजना/NN }/NCH {गरियो/VBF }/VCH {।/YF }/YF 
+{अन्तर्राष्ट्रिय/JJ }/JJ {सम्मेलन/NN }/NCH {केन्द्र/NN }/NCH {संविधानसभा/NNP ले/PLE }/PNLE {ओगटे/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {र/CC }/CC {अर्/VBF }/VCH {को/PKO }/PKO {त्यही/DUM }/DUM {स्तर/NN को/PKO }/NCH {सभाथलो/NN }/NCH {हामी/PP ले/PLE }/PNLE {यसबीच/NN मा/POP }/NNMA {निर्माण/NN }/NCH {गर्न/VBI }/VBI {सके/VBF }/VCH {का/PKO }/PKO {छैनौं/VBF }/VCH {।/YF }/YF 
+{त्यस्तो/DM }/DM {अवस्था/NN मा/POP }/NNMA {विकल्प/NN को/PKO }/NCH {रूप/NN मा/POP }/NNMA {लिइए/VBF }/VCH {को/PKO }/PKO {तर/CC }/CC {जीर्ण/JJ }/JJ {अवस्था/NN मा/POP }/NNMA {रहे/VBF }/VCH {को/PKO }/PKO {राष्ट्रिय/JJ }/JJ {सभागृह/NN लाई/PLAI }/NCH {मर्मत-सम्भार/NN }/NCH {गरी/VBO }/VBO {सम्मेलन/NN }/NCH {आयोजना/NN }/NCH {स्थल/NN }/NCH {बनाइँदैछ/VBF }/VCH {।/YF }/YF 
+{त्यो/DUM }/DUM {पनि/RP }/RP {पूर्ण/JJ }/JJ {रूप/NN मा/POP }/NNMA {तयार/JJ }/JJ {भइसके/VBF }/VCH {को/PKO }/PKO {छैन/VBF }/VCH {।/YF }/YF 
+{सार्क/NN }/NCH {सम्मेलन/NN को/PKO }/NCH {तयारी/NN का/PKO }/NCH {क्रम/NN मा/POP }/NNMA {सहसचिव/NN }/NCH {स्तरीय/JJ }/JJ {वार्ता/NN }/NCH {मंसिर/NN }/NCH {६/CD }/CD 
+{बाटै/POP }/POP {सुरु/NN }/NCH {हुँदैछ/VBF }/VCH {तर/CC }/CC {एक/CD }/CD {साता/NN }/NCH {बाँ/NN की/PKO }/NCH {रहँदा/VBO }/VBO 
+{समेत/RP }/RP {सम्मेलन/NN }/NCH {थलो/NN ले/PLE }/NNLE {अन्तिम/JJ }/JJ {रूप/NN }/NCH {पाउन/VBI }/VBI {सके/VBF }/VCH {को/PKO }/PKO {छैन/VBF }/VCH {।/YF }/YF 
+{अन्तर्राष्ट्रिय/JJ }/JJ {प्रतिष्ठा/NN }/NCH {जोडिए/VBF }/VCH {को/PKO }/PKO {त्यो/DUM }/DUM {कार्यक्रम/NN }/NCH {गर्ने/VBNE }/VBNE {ठाउँ/NN }/NCH {हतार/NN मा/POP }/NNMA {तयार/JJ }/JJ {पार्दा/VBO }/VBO {समस्या/NN }/NCH {या/CC }/CC {कमजोरी/NN }/NCH {निम्तिन/VBI }/VBI {सक्ने/VBNE }/VBNE {जोखिम/NN }/NCH {पनि/RP }/RP {छ/VBF }/VCH {।/YF }/YF 
+{त्यतिमात्रै/RBM }/RBM {होइन/VBF }/VCH {हामी/PP }/PP {सार्क/NN का/PKO }/NCH {सदस्य/NN }/NCH {राष्ट्र/NN बाट/POP }/NNMA {आउने/VBNE }/VBNE {राष्ट्राध्यक्ष/JJ }/JJ {सरकार/NN }/NCH {प्रमुखहरू/NNP लाई/PLAI }/NNLAI {सवारी/NN }/NCH {साधन/NN को/PKO }/NCH {व्यवस्था/NN }/NCH {समेत/RP }/RP {आफैं/PPR }/PPR {गर्न/VBI }/VBI {नसक्ने/VBNE }/VBNE {लाजमर्दो/VBO }/VBO {अवस्था/NN मा/POP }/NNMA {पुगे/VBF }/VCH {का/PKO }/PKO {रहेछौं/VBF }/VCH {।/YF }/YF 
+{अहिले/RBO }/RBO {छिमे/VBF }/VCH {की/PKO }/PKO {राष्ट्र/NN बाट/POP }/NNMA {मोटर/NN }/NCH {भाडा/NN मा/POP }/NNMA {र/CC }/CC {सहयोग/NN मा/POP }/NNMA {लिनुपरे/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {।/YF }/YF 
+{भारत/NNP }/NNP {सरकार/NN ले/PLE }/NNLE {आफ्ना/PPR }/PPR {प्रधानमन्त्री/NN का/PKO }/NCH 
+{लागि/POP }/POP {ँबुलेट/NN }/NCH {प्रुफ/NN }/NCH {कार’/NN }/NCH {आफैं/PPR }/PPR {ल्याउने/VBNE }/VBNE {भए/VBF }/VCH {पछि/POP }/POP {पाकिस्तान/NNP ले/PLE }/PNLE {पनि/RP }/RP {आफ्ना/PPR }/PPR {प्रधानमन्त्री/NN का/PKO }/NCH 
+{लागि/POP }/POP {साधन/NN को/PKO }/NCH {व्यवस्था/NN }/NCH {आफैं/PPR }/PPR {गर्ने/VBNE }/VBNE {बताए/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {र/CC }/CC {अन्यत्र/RBM }/RBM {बाट/POP }/POP {भाडा/NN मा/POP }/NNMA {ल्याइए/VBF }/VCH {को/PKO }/PKO {सवारी/NN }/NCH {साधन/NN }/NCH {उपभोग/NN }/NCH {नगर्ने/VBNE }/VBNE {भन्दै/VBO }/VBO {असन्तुष्टि/NN }/NCH {जनाए/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{कात्तिक/JJ }/JJ {२५/CD }/CD 
+{भित्र/POP }/POP {सार्कलक्षित/JJ }/JJ {भौतिक/JJ }/JJ {पूर्वाधार/NN का/PKO }/NCH {सम्पूर्ण/JJ }/JJ {तयारी/NN }/NCH {पूरा/JJ }/JJ {गर्ने/VBNE }/VBNE {दाबी/NN }/NCH {गरे/VBF }/VCH {पनि/RP }/RP {ठाउँ-ठाउँ/NN मा/POP }/NNMA {निर्माण/NN }/NCH {कार्य/NN }/NCH {र/CC }/CC {सरसफाइ/NN }/NCH {सकिए/VBF }/VCH {को/PKO }/PKO {छैन/VBF }/VCH {।/YF }/YF 
+{विमानस्थल-तीनकुने/VBNE }/VBNE {सडक/NN }/NCH {खण्ड/NN का/PKO }/NCH {छेउ/NN मा/POP }/NNMA {माटो/NN }/NCH {बालुवा/NN }/NCH {सिमेन्ट/NN }/NCH {असरल्ल/RBM }/RBM {थुपारिए/VBF }/VCH {का/PKO }/PKO {छन्/VBF }/VCH {।/YF }/YF 
+{कति/DUM }/DUM {सम्म/POP }/POP {भने/RP }/RP {मुख्य/JJ }/JJ {सम्मेलनस्थल/NN }/NCH {सभागृह/NN }/NCH {पूर्ण/JJ }/JJ {रूप/NN मा/POP }/NNMA {तयार/JJ }/JJ {भइसके/VBF }/VCH {को/PKO }/PKO {छैन/VBF }/VCH {।/YF }/YF 
+{यो/DUM }/DUM {सबै/JJ }/JJ {ढिलो/JJM }/JJM {काम/NN }/NCH {थाल्नु/VBI }/VBI {को/PKO }/PKO {परिणाम/NN }/NCH {हो/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {सम्मेलन/NN }/NCH {नेपाल/NNP मा/POP }/NNMA {हुने/VBNE }/VBNE {टुंगो/NN }/NCH {माल्दिभ्स/NNP मा/POP }/NNMA {सत्रौं/OD }/OD {सम्मेलन/NN }/NCH {सकिंदै/VBO }/VBO {भइसके/VBF }/VCH {को/PKO }/PKO {थियो/VBF }/VCH {।/YF }/YF 
+{सरकार/NN ले/PLE }/NNLE {आयोजक/NN का/PKO }/NCH {हैसियत/NN ले/PLE }/NNLE {त्यस/DUM }/DUM {को/PKO }/PKO {तयारी/NN }/NCH {अलि/JJ }/JJ 
+{अगाडि/RBM }/RBM {सुरु/NN }/NCH {गरिसक्नुपथ्र्यो/VBF }/VCH {।/YF }/YF 
+{तर/CC }/CC {दुई/CD }/CD {महिना/NN अघि/POP }/NNMA {मात्रै/RP }/RP {सम्मेलन/NN को/PKO }/NCH {तयारी/NN }/NCH {थालियो/VBF }/VCH {।/YF }/YF 
+{नतिजा/NN }/NCH {सम्मेलन/NN }/NCH {दैलो/NN मै/POP }/NNMA {आइसक्दा/VBO }/VBO {पनि/RP }/RP {कतिपय/DUM }/DUM {पूर्वाधारहरू/NNP }/NNP {अधुरै/NN }/NCH {छन्/VBF }/VCH {।/YF }/YF 
+{यस/DUM ले/PLE }/PNLE {सरकार/NN को/PKO }/NCH {ढिलासुस्ती/NN }/NCH {र/CC }/CC {अदूरदर्शी/JJ }/JJ {प्रवृत्ति/NN लाई/PLAI }/NCH {पुन:/JJ }/JJ {उजागर/NN }/NCH {गरे/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {।/YF }/YF 
+{हामी/PP }/PP {सँग/POP }/POP {यस/DUM }/DUM {अघि/POP }/POP {दुईपटक/RBM }/RBM {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {आयोजना/NN }/NCH {गरे/VBF }/VCH {को/PKO }/PKO {अनुभव/NN }/NCH {छ/VBF }/VCH {।/YF }/YF 
+{तेस्रो/OD }/OD {र/CC }/CC {एघारौं/OD }/OD {सार्क/NN }/NCH {सम्मेलन/NN }/NCH {नेपाल/NNP ले/PLE }/PNLE {गरिसके/VBF }/VCH {को/PKO }/PKO {थियो/VBF }/VCH {।/YF }/YF 
+{त्यस/DUM }/DUM {क्रम/NN मा/POP }/NNMA {भए/VBF }/VCH {का/PKO }/PKO {कतिपय/DUM }/DUM {त्रुटि/NN }/NCH {कमजोरी/NN }/NCH {सच्याउँदै/VBO }/VBO {सार्थक/JJ }/JJ {र/CC }/CC {सफल/JJ }/JJ {सार्क/NN }/NCH {सम्मेलन/NN }/NCH {सम्पन्न/JJ }/JJ {गर्ने/VBNE }/VBNE {अवसर/NN }/NCH {यतिखेर/RBO }/RBO {हामी/PP }/PP {लाई/PLAI }/PLAI {फेरि/RBM }/RBM {आए/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {।/YF }/YF 
+{अर्/NN को/PKO }/NCH {अवसर/NN }/NCH {आउन/VBI }/VBI {कम्ती/JJ }/JJ {मा/POP }/POP {अर्/VBF }/VCH {को/PKO }/PKO {१४/CD }/CD {वर्ष/NN }/NCH {कुर्नुपर्ने/VBNE }/VBNE {हुनसक्छ/VBF }/VCH {।/YF }/YF 
+{त्यसकारण/RBM }/RBM {पनि/RP }/RP {सरकार/NN ले/PLE }/NNLE {सार्क/NN }/NCH {सम्मेलन/NN को/PKO }/NCH {आयोजना/NN }/NCH {गर्ने/VBNE }/VBNE {विषय/NN लाई/PLAI }/NCH {अवसर/NN का/PKO }/NCH {रूप/NN मा/POP }/NNMA {लिन/VBI }/VBI {सक्नुपर्ने/VBNE }/VBNE {मा/POP }/POP {फेरि/RBM }/RBM {उही/DUM }/DUM {तदर्थवाद/NN मै/POP }/NNMA {रुमल्लिने/VBNE }/VBNE {अवस्था/NN }/NCH {सिर्जना/NN }/NCH {हुनु/VBI }/VBI {विडम्बना/NN }/NCH {हो/VBF }/VCH {।/YF }/YF 
+{हतार/NN मा/POP }/NNMA {तयारी/NN }/NCH {गर्ने/VBNE }/VBNE {बिनायोजना/NN }/NCH {बजेट/NN }/NCH {विनियोजन/NN }/NCH {गर्ने/VBNE }/VBNE {मिले/VBF }/VCH {सम्म/POP }/POP {लाभ/NN }/NCH {लिन/VBI }/VBI {उद्यत/NN }/NCH {हुने/VBNE }/VBNE {प्रवृत्ति/NN }/NCH {समेत/RP }/RP {यसबीच/NN मा/POP }/NNMA {छरपस्ट/JJ }/JJ {देखिनु/VBI }/VBI {दुर्भाग्यपूर्ण/JJ }/JJ {हो/VBF }/VCH {।/YF }/YF 
+{अवस्था/NN }/NCH {कति/DUM }/DUM {सम्म/POP }/POP {दुर्भाग्यपूर्ण/JJ }/JJ {छ/VBF }/VCH {भने/CS }/CS {हामी/PP }/PP {सँग/POP }/POP {अन्तर्राष्ट्रिय/JJ }/JJ {स्तर/NN को/PKO }/NCH {सभा-सम्मेलन/NN }/NCH {गर्ने/VBNE }/VBNE {एउटा/NN }/NCH {सुविधासम्पन्न/JJ }/JJ {सेमिनार/NN }/NCH {हल/NN }/NCH {समेत/RP }/RP {रहेन/VBF }/VCH {छ/VBF }/VCH {।/YF }/YF 
+{पहिलोपटक/RBM }/RBM {सार्क/NN }/NCH {सम्मेलन/NN }/NCH {तेस्रो/OD }/OD 
+{का/PKO }/PKO {बेला/NN मा/POP }/NNMA {कमलादी/NN को/PKO }/NCH {प्रज्ञा/NNP }/NNP {भवन/NN लाई/PLAI }/NCH {प्रयोग/NN }/NCH {गरिए/VBF }/VCH {को/PKO }/PKO {थियो/VBF }/VCH {भने/CS }/CS {दोस्रोपटक/RBM }/RBM {एघारौं/OD }/OD {गर्दा/VBO }/VBO {अन्तर्राष्ट्रिय/JJ }/JJ {सम्मेलन/NN }/NCH {केन्द्र/NN मा/POP }/NNMA {आयोजना/NN }/NCH {गरियो/VBF }/VCH {।/YF }/YF 
+{अन्तर्राष्ट्रिय/JJ }/JJ {सम्मेलन/NN }/NCH {केन्द्र/NN }/NCH {संविधानसभा/NNP ले/PLE }/PNLE {ओगटे/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {र/CC }/CC {अर्/VBF }/VCH {को/PKO }/PKO {त्यही/DUM }/DUM {स्तर/NN को/PKO }/NCH {सभाथलो/NN }/NCH {हामी/PP ले/PLE }/PNLE {यसबीच/NN मा/POP }/NNMA {निर्माण/NN }/NCH {गर्न/VBI }/VBI {सके/VBF }/VCH {का/PKO }/PKO {छैनौं/VBF }/VCH {।/YF }/YF 
+{त्यस्तो/DM }/DM {अवस्था/NN मा/POP }/NNMA {विकल्प/NN को/PKO }/NCH {रूप/NN मा/POP }/NNMA {लिइए/VBF }/VCH {को/PKO }/PKO {तर/CC }/CC {जीर्ण/JJ }/JJ {अवस्था/NN मा/POP }/NNMA {रहे/VBF }/VCH {को/PKO }/PKO {राष्ट्रिय/JJ }/JJ {सभागृह/NN लाई/PLAI }/NCH {मर्मत-सम्भार/NN }/NCH {गरी/VBO }/VBO {सम्मेलन/NN }/NCH {आयोजना/NN }/NCH {स्थल/NN }/NCH {बनाइँदैछ/VBF }/VCH {।/YF }/YF 
+{त्यो/DUM }/DUM {पनि/RP }/RP {पूर्ण/JJ }/JJ {रूप/NN मा/POP }/NNMA {तयार/JJ }/JJ {भइसके/VBF }/VCH {को/PKO }/PKO {छैन/VBF }/VCH {।/YF }/YF 
+{सार्क/NN }/NCH {सम्मेलन/NN को/PKO }/NCH {तयारी/NN का/PKO }/NCH {क्रम/NN मा/POP }/NNMA {सहसचिव/NN }/NCH {स्तरीय/JJ }/JJ {वार्ता/NN }/NCH {मंसिर/NN }/NCH {६/CD }/CD 
+{बाटै/POP }/POP {सुरु/NN }/NCH {हुँदैछ/VBF }/VCH {तर/CC }/CC {एक/CD }/CD {साता/NN }/NCH {बाँ/NN की/PKO }/NCH {रहँदा/VBO }/VBO 
+{समेत/RP }/RP {सम्मेलन/NN }/NCH {थलो/NN ले/PLE }/NNLE {अन्तिम/JJ }/JJ {रूप/NN }/NCH {पाउन/VBI }/VBI {सके/VBF }/VCH {को/PKO }/PKO {छैन/VBF }/VCH {।/YF }/YF 
+{अन्तर्राष्ट्रिय/JJ }/JJ {प्रतिष्ठा/NN }/NCH {जोडिए/VBF }/VCH {को/PKO }/PKO {त्यो/DUM }/DUM {कार्यक्रम/NN }/NCH {गर्ने/VBNE }/VBNE {ठाउँ/NN }/NCH {हतार/NN मा/POP }/NNMA {तयार/JJ }/JJ {पार्दा/VBO }/VBO {समस्या/NN }/NCH {या/CC }/CC {कमजोरी/NN }/NCH {निम्तिन/VBI }/VBI {सक्ने/VBNE }/VBNE {जोखिम/NN }/NCH {पनि/RP }/RP {छ/VBF }/VCH {।/YF }/YF 
+{त्यतिमात्रै/RBM }/RBM {होइन/VBF }/VCH {हामी/PP }/PP {सार्क/NN का/PKO }/NCH {सदस्य/NN }/NCH {राष्ट्र/NN बाट/POP }/NNMA {आउने/VBNE }/VBNE {राष्ट्राध्यक्ष/JJ }/JJ {सरकार/NN }/NCH {प्रमुखहरू/NNP लाई/PLAI }/NNLAI {सवारी/NN }/NCH {साधन/NN को/PKO }/NCH {व्यवस्था/NN }/NCH {समेत/RP }/RP {आफैं/PPR }/PPR {गर्न/VBI }/VBI {नसक्ने/VBNE }/VBNE {लाजमर्दो/VBO }/VBO {अवस्था/NN मा/POP }/NNMA {पुगे/VBF }/VCH {का/PKO }/PKO {रहेछौं/VBF }/VCH {।/YF }/YF 
+{अहिले/RBO }/RBO {छिमे/VBF }/VCH {की/PKO }/PKO {राष्ट्र/NN बाट/POP }/NNMA {मोटर/NN }/NCH {भाडा/NN मा/POP }/NNMA {र/CC }/CC {सहयोग/NN मा/POP }/NNMA {लिनुपरे/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {।/YF }/YF 
+{भारत/NNP }/NNP {सरकार/NN ले/PLE }/NNLE {आफ्ना/PPR }/PPR {प्रधानमन्त्री/NN का/PKO }/NCH 
+{लागि/POP }/POP {ँबुलेट/NN }/NCH {प्रुफ/NN }/NCH {कार’/NN }/NCH {आफैं/PPR }/PPR {ल्याउने/VBNE }/VBNE {भए/VBF }/VCH {पछि/POP }/POP {पाकिस्तान/NNP ले/PLE }/PNLE {पनि/RP }/RP {आफ्ना/PPR }/PPR {प्रधानमन्त्री/NN का/PKO }/NCH 
+{लागि/POP }/POP {साधन/NN को/PKO }/NCH {व्यवस्था/NN }/NCH {आफैं/PPR }/PPR {गर्ने/VBNE }/VBNE {बताए/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {र/CC }/CC {अन्यत्र/RBM }/RBM {बाट/POP }/POP {भाडा/NN मा/POP }/NNMA {ल्याइए/VBF }/VCH {को/PKO }/PKO {सवारी/NN }/NCH {साधन/NN }/NCH {उपभोग/NN }/NCH {नगर्ने/VBNE }/VBNE {भन्दै/VBO }/VBO {असन्तुष्टि/NN }/NCH {जनाए/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {।/YF }/YF 
+{पाहुना/NN को/PKO }/NCH {सत्कार/NN }/NCH {र/CC }/CC {यथोचित/JJ }/JJ {आतिथ्य/NN }/NCH {आयोजक/NN का/PKO }/NCH {हिसाब/NN ले/PLE }/NNLE {हाम्रो/PP$ }/PP$ {जिम्मेवारी/NN }/NCH {हो/VBF }/VCH {।/YF }/YF 
+{सुरक्षा/NN }/NCH {र/CC }/CC {आतिथ्य/NN का/PKO }/NCH {सबैखा/NN ले/PLE }/NNLE {र/CC }/CC {प्रभावकारी/JJ }/JJ {व्यवस्था/NN }/NCH {हामी/PP }/PP {आफैं/PPR }/PPR {ले/PLE }/PLE {गर्न/VBI }/VBI {नसक्नु/VBI }/VBI {ले/PLE }/PLE {हाम्रो/PP$ }/PP$ {परराष्ट्र/NN }/NCH {संयन्त्र/NN को/PKO }/NCH {साख/NN }/NCH {गिराए/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {।/YF }/YF 
+{क्षेत्रीय/JJ }/JJ {सद्भाव/NN }/NCH {र/CC }/CC {सहकार्य/NN }/NCH {प्रगाढ/JJ }/JJ {बनाउने/VBNE }/VBNE {उद्देश्य/NN ले/PLE }/NNLE {स्थापित/JJ }/JJ {सार्क/NN ले/PLE }/NNLE {आफ्नो/PPR }/PPR {औचित्य/NN }/NCH {पुष्टि/NN }/NCH {गर्न/VBI }/VBI {नसके/VBF }/VCH {को/PKO }/PKO {भ/NN नेर/POP }/NNMA {प्रश्न/VBI }/VBI {उठिरहँदा/VBO }/VBO {निकट/JJ }/JJ {केही/CD }/CD {दिन/NN मै/POP }/NNMA {राजधानी/NN मा/POP }/NNMA {अठारौं/OD }/OD {सार्क/NN }/NCH {सम्मेलन/NN }/NCH {सुरु/NN }/NCH {हुँदैछ/VBF }/VCH {।/YF }/YF 
+{आयोजक/NN का/PKO }/NCH {हिसाब/NN ले/PLE }/NNLE {यो/DUM }/DUM {सार्थक/JJ }/JJ {र/CC }/CC {औचित्यपूर्ण/JJ }/JJ {बनाउने/VBNE }/VBNE {प्रमुख/JJ }/JJ {जिम्मेवारी/NN }/NCH {हाम्रो/PP$ }/PP$ {हो/VBF }/VCH {।/YF }/YF 
+{सरकारी/JJ }/JJ {ढिलासुस्ती/NN }/NCH {र/CC }/CC {हतार/NN मा/POP }/NNMA {गरिए/VBF }/VCH {को/PKO }/PKO {तयारी/NN }/NCH {हेर्दा/VBO }/VBO {व्यवस्थापकीय/JJ }/JJ {दृष्टि/NN ले/PLE }/NNLE {सार्क/NN }/NCH {कति/DUM }/DUM {प्रभावकारी/NN }/NCH {होला/VBF }/VCH {?/YF }/YF 
+{संशय/RBM }/RBM {पैदा/NN }/NCH {भए/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {।/YF }/YF 
+{त्यसकारण/RBM }/RBM {सरकार/NN ले/PLE }/NNLE {कम्ती/JJ }/JJ {मा/POP }/POP {बाँ/NN की/PKO }/NCH {रहे/VBF }/VCH {का/PKO }/PKO {केही/CD }/CD {दिन/NN भित्र/POP }/NNMA {सडक/NN }/NCH {सम्मेलनस्थल/NN }/NCH {र/CC }/CC {आतिथ्य/NN का/PKO }/NCH {सबै/JJ }/JJ {आधारभूत/JJ }/JJ {व्यवस्थाहरू/NNP }/NNP {पूरा/JJ }/JJ {गर्न/VBI }/VBI {सक्नुपर्छ/VBF }/VCH {।/YF }/YF 
+{सम्मेलन/NN }/NCH {सार्थक/JJ }/JJ {र/CC }/CC {व्यवस्थित/JJ }/JJ {बनाउने/VBNE }/VBNE {सन्दर्भ/NN मा/POP }/NNMA {परराष्ट्र/NN }/NCH {मन्त्रालय/NN लगायत/POP }/NNMA {सरकार/NN का/PKO }/NCH {कुनै/DUM }/DUM {निकाय/NN }/NCH {नचुकून्/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {संघार/CD }/CD {मै/POP }/POP {आइपुग्दा/VBO }/VBO {सरकार/NN को/PKO }/NCH {तयारी/NN }/NCH {भने/RP }/RP {अ/ALPH }/ALPH {झै/POP }/POP {सुस्त/JJ }/JJ {गति/NN मै/POP }/NNMA {छ/VBF }/VCH {।/YF }/YF 
+{कात्तिक/JJ }/JJ {२५/CD }/CD 
+{भित्र/POP }/POP {सार्कलक्षित/JJ }/JJ {भौतिक/JJ }/JJ {पूर्वाधार/NN का/PKO }/NCH {सम्पूर्ण/JJ }/JJ {तयारी/NN }/NCH {पूरा/JJ }/JJ {गर्ने/VBNE }/VBNE {दाबी/NN }/NCH {गरे/VBF }/VCH {पनि/RP }/RP {ठाउँ-ठाउँ/NN मा/POP }/NNMA {निर्माण/NN }/NCH {कार्य/NN }/NCH {र/CC }/CC {सरसफाइ/NN }/NCH {सकिए/VBF }/VCH {को/PKO }/PKO {छैन/VBF }/VCH {।/YF }/YF 
+{विमानस्थल-तीनकुने/VBNE }/VBNE {सडक/NN }/NCH {खण्ड/NN का/PKO }/NCH {छेउ/NN मा/POP }/NNMA {माटो/NN }/NCH {बालुवा/NN }/NCH {सिमेन्ट/NN }/NCH {असरल्ल/RBM }/RBM {थुपारिए/VBF }/VCH {का/PKO }/PKO {छन्/VBF }/VCH {।/YF }/YF 
+{कति/DUM }/DUM {सम्म/POP }/POP {भने/RP }/RP {मुख्य/JJ }/JJ {सम्मेलनस्थल/NN }/NCH {सभागृह/NN }/NCH {पूर्ण/JJ }/JJ {रूप/NN मा/POP }/NNMA {तयार/JJ }/JJ {भइसके/VBF }/VCH {को/PKO }/PKO {छैन/VBF }/VCH {।/YF }/YF 
+{यो/DUM }/DUM {सबै/JJ }/JJ {ढिलो/JJM }/JJM {काम/NN }/NCH {थाल्नु/VBI }/VBI {को/PKO }/PKO {परिणाम/NN }/NCH {हो/VBF }/VCH {।/YF }/YF 
+{अठारौं/OD }/OD {सार्क/NN }/NCH {सम्मेलन/NN }/NCH {नेपाल/NNP मा/POP }/NNMA {हुने/VBNE }/VBNE {टुंगो/NN }/NCH {माल्दिभ्स/NNP मा/POP }/NNMA {सत्रौं/OD }/OD {सम्मेलन/NN }/NCH {सकिंदै/VBO }/VBO {भइसके/VBF }/VCH {को/PKO }/PKO {थियो/VBF }/VCH {।/YF }/YF 
+{सरकार/NN ले/PLE }/NNLE {आयोजक/NN का/PKO }/NCH {हैसियत/NN ले/PLE }/NNLE {त्यस/DUM }/DUM {को/PKO }/PKO {तयारी/NN }/NCH {अलि/JJ }/JJ 
+{अगाडि/RBM }/RBM {सुरु/NN }/NCH {गरिसक्नुपथ्र्यो/VBF }/VCH {।/YF }/YF 
+{तर/CC }/CC {दुई/CD }/CD {महिना/NN अघि/POP }/NNMA {मात्रै/RP }/RP {सम्मेलन/NN को/PKO }/NCH {तयारी/NN }/NCH {थालियो/VBF }/VCH {।/YF }/YF 
+{नतिजा/NN }/NCH {सम्मेलन/NN }/NCH {दैलो/NN मै/POP }/NNMA {आइसक्दा/VBO }/VBO {पनि/RP }/RP {कतिपय/DUM }/DUM {पूर्वाधारहरू/NNP }/NNP {अधुरै/NN }/NCH {छन्/VBF }/VCH {।/YF }/YF 
+{यस/DUM ले/PLE }/PNLE {सरकार/NN को/PKO }/NCH {ढिलासुस्ती/NN }/NCH {र/CC }/CC {अदूरदर्शी/JJ }/JJ {प्रवृत्ति/NN लाई/PLAI }/NCH {पुन:/JJ }/JJ {उजागर/NN }/NCH {गरे/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {।/YF }/YF 
+{हामी/PP }/PP {सँग/POP }/POP {यस/DUM }/DUM {अघि/POP }/POP {दुईपटक/RBM }/RBM {सार्क/NN }/NCH {शिखर/NN }/NCH {सम्मेलन/NN }/NCH {आयोजना/NN }/NCH {गरे/VBF }/VCH {को/PKO }/PKO {अनुभव/NN }/NCH {छ/VBF }/VCH {।/YF }/YF 
+{तेस्रो/OD }/OD {र/CC }/CC {एघारौं/OD }/OD {सार्क/NN }/NCH {सम्मेलन/NN }/NCH {नेपाल/NNP ले/PLE }/PNLE {गरिसके/VBF }/VCH {को/PKO }/PKO {थियो/VBF }/VCH {।/YF }/YF 
+{त्यस/DUM }/DUM {क्रम/NN मा/POP }/NNMA {भए/VBF }/VCH {का/PKO }/PKO {कतिपय/DUM }/DUM {त्रुटि/NN }/NCH {कमजोरी/NN }/NCH {सच्याउँदै/VBO }/VBO {सार्थक/JJ }/JJ {र/CC }/CC {सफल/JJ }/JJ {सार्क/NN }/NCH {सम्मेलन/NN }/NCH {सम्पन्न/JJ }/JJ {गर्ने/VBNE }/VBNE {अवसर/NN }/NCH {यतिखेर/RBO }/RBO {हामी/PP }/PP {लाई/PLAI }/PLAI {फेरि/RBM }/RBM {आए/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {।/YF }/YF 
+{अर्/NN को/PKO }/NCH {अवसर/NN }/NCH {आउन/VBI }/VBI {कम्ती/JJ }/JJ {मा/POP }/POP {अर्/VBF }/VCH {को/PKO }/PKO {१४/CD }/CD {वर्ष/NN }/NCH {कुर्नुपर्ने/VBNE }/VBNE {हुनसक्छ/VBF }/VCH {।/YF }/YF 
+{त्यसकारण/RBM }/RBM {पनि/RP }/RP {सरकार/NN ले/PLE }/NNLE {सार्क/NN }/NCH {सम्मेलन/NN को/PKO }/NCH {आयोजना/NN }/NCH {गर्ने/VBNE }/VBNE {विषय/NN लाई/PLAI }/NCH {अवसर/NN का/PKO }/NCH {रूप/NN मा/POP }/NNMA {लिन/VBI }/VBI {सक्नुपर्ने/VBNE }/VBNE {मा/POP }/POP {फेरि/RBM }/RBM {उही/DUM }/DUM {तदर्थवाद/NN मै/POP }/NNMA {रुमल्लिने/VBNE }/VBNE {अवस्था/NN }/NCH {सिर्जना/NN }/NCH {हुनु/VBI }/VBI {विडम्बना/NN }/NCH {हो/VBF }/VCH {।/YF }/YF 
+{हतार/NN मा/POP }/NNMA {तयारी/NN }/NCH {गर्ने/VBNE }/VBNE {बिनायोजना/NN }/NCH {बजेट/NN }/NCH {विनियोजन/NN }/NCH {गर्ने/VBNE }/VBNE {मिले/VBF }/VCH {सम्म/POP }/POP {लाभ/NN }/NCH {लिन/VBI }/VBI {उद्यत/NN }/NCH {हुने/VBNE }/VBNE {प्रवृत्ति/NN }/NCH {समेत/RP }/RP {यसबीच/NN मा/POP }/NNMA {छरपस्ट/JJ }/JJ {देखिनु/VBI }/VBI {दुर्भाग्यपूर्ण/JJ }/JJ {हो/VBF }/VCH {।/YF }/YF 
+{अवस्था/NN }/NCH {कति/DUM }/DUM {सम्म/POP }/POP {दुर्भाग्यपूर्ण/JJ }/JJ {छ/VBF }/VCH {भने/CS }/CS {हामी/PP }/PP {सँग/POP }/POP {अन्तर्राष्ट्रिय/JJ }/JJ {स्तर/NN को/PKO }/NCH {सभा-सम्मेलन/NN }/NCH {गर्ने/VBNE }/VBNE {एउटा/NN }/NCH {सुविधासम्पन्न/JJ }/JJ {सेमिनार/NN }/NCH {हल/NN }/NCH {समेत/RP }/RP {रहेन/VBF }/VCH {छ/VBF }/VCH {।/YF }/YF 
+{पहिलोपटक/RBM }/RBM {सार्क/NN }/NCH {सम्मेलन/NN }/NCH {तेस्रो/OD }/OD 
+{का/PKO }/PKO {बेला/NN मा/POP }/NNMA {कमलादी/NN को/PKO }/NCH {प्रज्ञा/NNP }/NNP {भवन/NN लाई/PLAI }/NCH {प्रयोग/NN }/NCH {गरिए/VBF }/VCH {को/PKO }/PKO {थियो/VBF }/VCH {भने/CS }/CS {दोस्रोपटक/RBM }/RBM {एघारौं/OD }/OD {गर्दा/VBO }/VBO {अन्तर्राष्ट्रिय/JJ }/JJ {सम्मेलन/NN }/NCH {केन्द्र/NN मा/POP }/NNMA {आयोजना/NN }/NCH {गरियो/VBF }/VCH {।/YF }/YF 
+{अन्तर्राष्ट्रिय/JJ }/JJ {सम्मेलन/NN }/NCH {केन्द्र/NN }/NCH {संविधानसभा/NNP ले/PLE }/PNLE {ओगटे/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {र/CC }/CC {अर्/VBF }/VCH {को/PKO }/PKO {त्यही/DUM }/DUM {स्तर/NN को/PKO }/NCH {सभाथलो/NN }/NCH {हामी/PP ले/PLE }/PNLE {यसबीच/NN मा/POP }/NNMA {निर्माण/NN }/NCH {गर्न/VBI }/VBI {सके/VBF }/VCH {का/PKO }/PKO {छैनौं/VBF }/VCH {।/YF }/YF 
+{त्यस्तो/DM }/DM {अवस्था/NN मा/POP }/NNMA {विकल्प/NN को/PKO }/NCH {रूप/NN मा/POP }/NNMA {लिइए/VBF }/VCH {को/PKO }/PKO {तर/CC }/CC {जीर्ण/JJ }/JJ {अवस्था/NN मा/POP }/NNMA {रहे/VBF }/VCH {को/PKO }/PKO {राष्ट्रिय/JJ }/JJ {सभागृह/NN लाई/PLAI }/NCH {मर्मत-सम्भार/NN }/NCH {गरी/VBO }/VBO {सम्मेलन/NN }/NCH {आयोजना/NN }/NCH {स्थल/NN }/NCH {बनाइँदैछ/VBF }/VCH {।/YF }/YF 
+{त्यो/DUM }/DUM {पनि/RP }/RP {पूर्ण/JJ }/JJ {रूप/NN मा/POP }/NNMA {तयार/JJ }/JJ {भइसके/VBF }/VCH {को/PKO }/PKO {छैन/VBF }/VCH {।/YF }/YF 
+{सार्क/NN }/NCH {सम्मेलन/NN को/PKO }/NCH {तयारी/NN का/PKO }/NCH {क्रम/NN मा/POP }/NNMA {सहसचिव/NN }/NCH {स्तरीय/JJ }/JJ {वार्ता/NN }/NCH {मंसिर/NN }/NCH {६/CD }/CD 
+{बाटै/POP }/POP {सुरु/NN }/NCH {हुँदैछ/VBF }/VCH {तर/CC }/CC {एक/CD }/CD {साता/NN }/NCH {बाँ/NN की/PKO }/NCH {रहँदा/VBO }/VBO 
+{समेत/RP }/RP {सम्मेलन/NN }/NCH {थलो/NN ले/PLE }/NNLE {अन्तिम/JJ }/JJ {रूप/NN }/NCH {पाउन/VBI }/VBI {सके/VBF }/VCH {को/PKO }/PKO {छैन/VBF }/VCH {।/YF }/YF 
+{अन्तर्राष्ट्रिय/JJ }/JJ {प्रतिष्ठा/NN }/NCH {जोडिए/VBF }/VCH {को/PKO }/PKO {त्यो/DUM }/DUM {कार्यक्रम/NN }/NCH {गर्ने/VBNE }/VBNE {ठाउँ/NN }/NCH {हतार/NN मा/POP }/NNMA {तयार/JJ }/JJ {पार्दा/VBO }/VBO {समस्या/NN }/NCH {या/CC }/CC {कमजोरी/NN }/NCH {निम्तिन/VBI }/VBI {सक्ने/VBNE }/VBNE {जोखिम/NN }/NCH {पनि/RP }/RP {छ/VBF }/VCH {।/YF }/YF 
+{त्यतिमात्रै/RBM }/RBM {होइन/VBF }/VCH {हामी/PP }/PP {सार्क/NN का/PKO }/NCH {सदस्य/NN }/NCH {राष्ट्र/NN बाट/POP }/NNMA {आउने/VBNE }/VBNE {राष्ट्राध्यक्ष/JJ }/JJ {सरकार/NN }/NCH {प्रमुखहरू/NNP लाई/PLAI }/NNLAI {सवारी/NN }/NCH {साधन/NN को/PKO }/NCH {व्यवस्था/NN }/NCH {समेत/RP }/RP {आफैं/PPR }/PPR {गर्न/VBI }/VBI {नसक्ने/VBNE }/VBNE {लाजमर्दो/VBO }/VBO {अवस्था/NN मा/POP }/NNMA {पुगे/VBF }/VCH {का/PKO }/PKO {रहेछौं/VBF }/VCH {।/YF }/YF 
+{अहिले/RBO }/RBO {छिमे/VBF }/VCH {की/PKO }/PKO {राष्ट्र/NN बाट/POP }/NNMA {मोटर/NN }/NCH {भाडा/NN मा/POP }/NNMA {र/CC }/CC {सहयोग/NN मा/POP }/NNMA {लिनुपरे/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {।/YF }/YF 
+{भारत/NNP }/NNP {सरकार/NN ले/PLE }/NNLE {आफ्ना/PPR }/PPR {प्रधानमन्त्री/NN का/PKO }/NCH 
+{लागि/POP }/POP {ँबुलेट/NN }/NCH {प्रुफ/NN }/NCH {कार’/NN }/NCH {आफैं/PPR }/PPR {ल्याउने/VBNE }/VBNE {भए/VBF }/VCH {पछि/POP }/POP {पाकिस्तान/NNP ले/PLE }/PNLE {पनि/RP }/RP {आफ्ना/PPR }/PPR {प्रधानमन्त्री/NN का/PKO }/NCH 
+{लागि/POP }/POP {साधन/NN को/PKO }/NCH {व्यवस्था/NN }/NCH {आफैं/PPR }/PPR {गर्ने/VBNE }/VBNE {बताए/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {र/CC }/CC {अन्यत्र/RBM }/RBM {बाट/POP }/POP {भाडा/NN मा/POP }/NNMA {ल्याइए/VBF }/VCH {को/PKO }/PKO {सवारी/NN }/NCH {साधन/NN }/NCH {उपभोग/NN }/NCH {नगर्ने/VBNE }/VBNE {भन्दै/VBO }/VBO {असन्तुष्टि/NN }/NCH {जनाए/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {।/YF }/YF 
+{पाहुना/NN को/PKO }/NCH {सत्कार/NN }/NCH {र/CC }/CC {यथोचित/JJ }/JJ {आतिथ्य/NN }/NCH {आयोजक/NN का/PKO }/NCH {हिसाब/NN ले/PLE }/NNLE {हाम्रो/PP$ }/PP$ {जिम्मेवारी/NN }/NCH {हो/VBF }/VCH {।/YF }/YF 
+{सुरक्षा/NN }/NCH {र/CC }/CC {आतिथ्य/NN का/PKO }/NCH {सबैखा/NN ले/PLE }/NNLE {र/CC }/CC {प्रभावकारी/JJ }/JJ {व्यवस्था/NN }/NCH {हामी/PP }/PP {आफैं/PPR }/PPR {ले/PLE }/PLE {गर्न/VBI }/VBI {नसक्नु/VBI }/VBI {ले/PLE }/PLE {हाम्रो/PP$ }/PP$ {परराष्ट्र/NN }/NCH {संयन्त्र/NN को/PKO }/NCH {साख/NN }/NCH {गिराए/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {।/YF }/YF 
+{क्षेत्रीय/JJ }/JJ {सद्भाव/NN }/NCH {र/CC }/CC {सहकार्य/NN }/NCH {प्रगाढ/JJ }/JJ {बनाउने/VBNE }/VBNE {उद्देश्य/NN ले/PLE }/NNLE {स्थापित/JJ }/JJ {सार्क/NN ले/PLE }/NNLE {आफ्नो/PPR }/PPR {औचित्य/NN }/NCH {पुष्टि/NN }/NCH {गर्न/VBI }/VBI {नसके/VBF }/VCH {को/PKO }/PKO {भ/NN नेर/POP }/NNMA {प्रश्न/VBI }/VBI {उठिरहँदा/VBO }/VBO {निकट/JJ }/JJ {केही/CD }/CD {दिन/NN मै/POP }/NNMA {राजधानी/NN मा/POP }/NNMA {अठारौं/OD }/OD {सार्क/NN }/NCH {सम्मेलन/NN }/NCH {सुरु/NN }/NCH {हुँदैछ/VBF }/VCH {।/YF }/YF 
+{आयोजक/NN का/PKO }/NCH {हिसाब/NN ले/PLE }/NNLE {यो/DUM }/DUM {सार्थक/JJ }/JJ {र/CC }/CC {औचित्यपूर्ण/JJ }/JJ {बनाउने/VBNE }/VBNE {प्रमुख/JJ }/JJ {जिम्मेवारी/NN }/NCH {हाम्रो/PP$ }/PP$ {हो/VBF }/VCH {।/YF }/YF 
+{सरकारी/JJ }/JJ {ढिलासुस्ती/NN }/NCH {र/CC }/CC {हतार/NN मा/POP }/NNMA {गरिए/VBF }/VCH {को/PKO }/PKO {तयारी/NN }/NCH {हेर्दा/VBO }/VBO {व्यवस्थापकीय/JJ }/JJ {दृष्टि/NN ले/PLE }/NNLE {सार्क/NN }/NCH {कति/DUM }/DUM {प्रभावकारी/NN }/NCH {होला/VBF }/VCH {?/YF }/YF 
+{संशय/RBM }/RBM {पैदा/NN }/NCH {भए/VBF }/VCH {को/PKO }/PKO {छ/VBF }/VCH {।/YF }/YF 
+{त्यसकारण/RBM }/RBM {सरकार/NN ले/PLE }/NNLE {कम्ती/JJ }/JJ {मा/POP }/POP {बाँ/NN की/PKO }/NCH {रहे/VBF }/VCH {का/PKO }/PKO {केही/CD }/CD {दिन/NN भित्र/POP }/NNMA {सडक/NN }/NCH {सम्मेलनस्थल/NN }/NCH {र/CC }/CC {आतिथ्य/NN का/PKO }/NCH {सबै/JJ }/JJ {आधारभूत/JJ }/JJ {व्यवस्थाहरू/NNP }/NNP {पूरा/JJ }/JJ {गर्न/VBI }/VBI {सक्नुपर्छ/VBF }/VCH {।/YF }/YF 
+{सम्मेलन/NN }/NCH {सार्थक/JJ }/JJ {र/CC }/CC {व्यवस्थित/JJ }/JJ {बनाउने/VBNE }/VBNE {सन्दर्भ/NN मा/POP }/NNMA {परराष्ट्र/NN }/NCH {मन्त्रालय/NN लगायत/POP }/NNMA {सरकार/NN का/PKO }/NCH {कुनै/DUM }/DUM {निकाय/NN }/NCH {नचुकून्/VBF }/VCH {।/YF }/YF 
+{भात/NN }/NCH {खान्छु/VBF }/VCH 
+{भात/NN }/NCH {खान्छु/VBF }/VCH 
+{लाडो/JJM }/JJM {खा/NN }/NCH 
+{राम/NNP }/NNP {राम्रो/JJM }/JJM {मान्छे/NN }/NCH {हो/VBF }/VCH 
