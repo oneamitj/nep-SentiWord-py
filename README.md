@@ -6,8 +6,7 @@ SentiWordNet english available at: http://sentiwordnet.isti.cnr.it/
 
 Alike SentiWordNet english this program generates SentiWordNet for nepali language and uses it to nepali language semtiment analysis.
 
-###Tools used:
-
+#####Tools used:
 * python
 * MySQL
 * Shell
